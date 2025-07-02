@@ -1,0 +1,2 @@
+# Godstones Story Summary
+
