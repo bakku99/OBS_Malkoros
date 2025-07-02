@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Greater_Deities_of_the_Elemental_Planes.md",
+                "file": "Lore/Fellowships.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greater_Deities_of_the_Elemental_Planes"
+              "title": "Fellowships"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Greater_Deities_of_the_Elemental_Planes.md",
+                "file": "Lore/Fellowships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Greater_Deities_of_the_Elemental_Planes"
+              "title": "Backlinks for Fellowships"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Greater_Deities_of_the_Elemental_Planes.md",
+                "file": "Lore/Fellowships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Greater_Deities_of_the_Elemental_Planes"
+              "title": "Outgoing links from Fellowships"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Greater_Deities_of_the_Elemental_Planes.md",
+                "file": "Lore/Fellowships.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Greater_Deities_of_the_Elemental_Planes"
+              "title": "Outline of Fellowships"
             }
           }
         ]
@@ -186,17 +186,28 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "dda4aec691179ec2",
+  "active": "4be173034b97986d",
   "lastOpenFiles": [
+    "Lore/Granted_Powers",
+    "Lore/Symbols",
+    "Lore/Fellowships",
+    "Lore/Symbols.md",
+    "Lore/Pantheon Structure.md",
+    "Lore/Granted Powers.md",
+    "Lore/Elemental_Deities/Eirsyr.md",
+    "Lore/Fellowships.md",
+    "Lore/Gods.md",
     "Lore_Index.md",
+    "Lore/Lesser_Deities.md",
+    "Lore/Lesser_Deities/Kaelis.md",
+    "Lore/Geography.md",
+    "Lore/Greater_Deities_of_the_Elemental_Planes.md",
     "Lore/Lesser_Deities/Xexas.md",
     "Lore/Lesser_Deities/Vandryl.md",
     "Lore/Lesser_Deities/Vaelreth.md",
     "Lore/Lesser_Deities/Tahrun.md",
     "Lore/Lesser_Deities/Seramara.md",
     "Lore/Lesser_Deities/Lunessa.md",
-    "Lore/Lesser_Deities/Kaelis.md",
-    "Lore/Gods.md",
     "Lore/Elemental_Deities/Zephrayl.md",
     "Campaigns/Godstones_Master_Campaign/Godstones_Story_Summary.md",
     "Lore/Greater_Deities/Uztix.md",
@@ -205,15 +216,6 @@
     "Lore/Elemental_Deities/Thavax.md",
     "Lore/Greater_Deities/Solanis.md",
     "Lore/Elemental_Deities/Pyrius.md",
-    "Lore/Greater_Deities/Othys.md",
-    "Lore/Elemental_Deities/Nysthariel.md",
-    "Lore/Elemental_Deities/Myrradyn.md",
-    "Lore/Greater_Deities/Ineas.md",
-    "Lore/Greater_Deities/Hostus.md",
-    "Lore/Elemental_Deities/Eirsyr.md",
-    "Lore/Lower_Planes_Deities/Azhadûn.md",
-    "Lore/Greater_Deities/Atotz.md",
-    "Campaigns/Godstones_Master_Campaign/Player_Characters/Sir Roland Ogletree.md",
     "Lore/Lower_Planes_Deities",
     "Lore/Elemental_Deities",
     "Lore/Lesser_Deities",
