@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "b4f793a0e2d90776",
+    "type": "split",
+    "children": [
+      {
+        "id": "aae56b691b65c5ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb0523232f65d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Godstones_Master_Campaign/Godstones_Story_Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Godstones_Story_Summary"
+            }
+          },
+          {
+            "id": "dda4aec691179ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Greater_Deities_of_the_Elemental_Planes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Greater_Deities_of_the_Elemental_Planes"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df687a24460d982b",
+    "type": "split",
+    "children": [
+      {
+        "id": "59ba8d7cda99b9c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be173034b97986d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a7fb7ecc895cbcae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f674d268881fba4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "732a84f06e11cc4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "746a9f0115588e42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "005fea447638583b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lore/Greater_Deities_of_the_Elemental_Planes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Greater_Deities_of_the_Elemental_Planes"
+            }
+          },
+          {
+            "id": "1cb9600bce31607a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lore/Greater_Deities_of_the_Elemental_Planes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Greater_Deities_of_the_Elemental_Planes"
+            }
+          },
+          {
+            "id": "f38ff50010f67bb0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "65306803e76fbbd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lore/Greater_Deities_of_the_Elemental_Planes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Greater_Deities_of_the_Elemental_Planes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "dda4aec691179ec2",
+  "lastOpenFiles": [
+    "Lore_Index.md",
+    "Lore/Lesser_Deities/Xexas.md",
+    "Lore/Lesser_Deities/Vandryl.md",
+    "Lore/Lesser_Deities/Vaelreth.md",
+    "Lore/Lesser_Deities/Tahrun.md",
+    "Lore/Lesser_Deities/Seramara.md",
+    "Lore/Lesser_Deities/Lunessa.md",
+    "Lore/Lesser_Deities/Kaelis.md",
+    "Lore/Gods.md",
+    "Lore/Elemental_Deities/Zephrayl.md",
+    "Campaigns/Godstones_Master_Campaign/Godstones_Story_Summary.md",
+    "Lore/Greater_Deities/Uztix.md",
+    "Lore/Lower_Planes_Deities/Ulvaarak.md",
+    "Lore/Greater_Deities/Therassor.md",
+    "Lore/Elemental_Deities/Thavax.md",
+    "Lore/Greater_Deities/Solanis.md",
+    "Lore/Elemental_Deities/Pyrius.md",
+    "Lore/Greater_Deities/Othys.md",
+    "Lore/Elemental_Deities/Nysthariel.md",
+    "Lore/Elemental_Deities/Myrradyn.md",
+    "Lore/Greater_Deities/Ineas.md",
+    "Lore/Greater_Deities/Hostus.md",
+    "Lore/Elemental_Deities/Eirsyr.md",
+    "Lore/Lower_Planes_Deities/Azhadûn.md",
+    "Lore/Greater_Deities/Atotz.md",
+    "Campaigns/Godstones_Master_Campaign/Player_Characters/Sir Roland Ogletree.md",
+    "Lore/Lower_Planes_Deities",
+    "Lore/Elemental_Deities",
+    "Lore/Lesser_Deities",
+    "Lore/Greater_Deities",
+    "Campaigns/Godstones_Master_Campaign/Player_Characters",
+    "Campaigns/Godstones_Master_Campaign",
+    "Campaigns",
+    "Templates"
+  ]
+}
