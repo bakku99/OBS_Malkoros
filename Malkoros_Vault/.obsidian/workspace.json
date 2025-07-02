@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Fellowships.md",
+                "file": "Lore/Greater_Deities/Atotz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fellowships"
+              "title": "Atotz"
             }
           }
         ],
@@ -186,18 +186,23 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4be173034b97986d",
+  "active": "dda4aec691179ec2",
   "lastOpenFiles": [
+    "Lore/Fellowships.md",
+    "Lore/Fellowships",
+    "Lore/Elemental_Deities/Eirsyr.md",
+    "Lore/Symbols.md",
+    "Lore/Granted_Powers.md",
+    "Lore_Index.md",
+    "Lore/Pantheon_Structure.md",
+    "Lore/Granted Powers.md",
+    "Lore/Malkoros_Calendar.md",
+    "Lore/Pantheon Structure.md",
+    "Lore/Lore_Summary.md",
     "Lore/Granted_Powers",
     "Lore/Symbols",
     "Lore/Fellowships",
-    "Lore/Symbols.md",
-    "Lore/Pantheon Structure.md",
-    "Lore/Granted Powers.md",
-    "Lore/Elemental_Deities/Eirsyr.md",
-    "Lore/Fellowships.md",
     "Lore/Gods.md",
-    "Lore_Index.md",
     "Lore/Lesser_Deities.md",
     "Lore/Lesser_Deities/Kaelis.md",
     "Lore/Geography.md",
@@ -212,17 +217,11 @@
     "Campaigns/Godstones_Master_Campaign/Godstones_Story_Summary.md",
     "Lore/Greater_Deities/Uztix.md",
     "Lore/Lower_Planes_Deities/Ulvaarak.md",
-    "Lore/Greater_Deities/Therassor.md",
-    "Lore/Elemental_Deities/Thavax.md",
-    "Lore/Greater_Deities/Solanis.md",
-    "Lore/Elemental_Deities/Pyrius.md",
     "Lore/Lower_Planes_Deities",
     "Lore/Elemental_Deities",
     "Lore/Lesser_Deities",
     "Lore/Greater_Deities",
     "Campaigns/Godstones_Master_Campaign/Player_Characters",
-    "Campaigns/Godstones_Master_Campaign",
-    "Campaigns",
-    "Templates"
+    "Campaigns/Godstones_Master_Campaign"
   ]
 }
