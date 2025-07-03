@@ -33,4 +33,4 @@ Wandering lorekeepers who record lost histories, loves, and final words. They ca
 
 ### Seramara’s Thorn
 A vengeful sect of lovers scorned or betrayed. They walk a darker road, believing that love defiled must be avenged. While controversial, they are protected by divine sanction — for even love's pain is sacred.
-[[Fellowships/Seramara’s_Thorn|Learn more about the Seramara’s Thorn]]
+[[Seramaras_Thorn|Learn more about the Seramara’s Thorn]]

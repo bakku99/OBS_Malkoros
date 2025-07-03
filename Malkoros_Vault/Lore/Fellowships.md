@@ -56,7 +56,7 @@ Each deity is served by dedicated orders or fellowships. This page collects thei
 - [[Echoes_of_Lunessa|Echoes of Lunessa]] – Lunessa
 - [[Order_of_the_Crimson_Veil|Order of the Crimson Veil]] – Seramara
 - [[The_Unforgotten|The Unforgotten]] – Seramara
-- [[Seramara’s_Thorn|Seramara’s Thorn]] – Seramara
+- [[Seramaras_Thorn|Seramara’s Thorn]] – Seramara
 - [[The_Whispering_Quill|The Whispering Quill]] – Tahrun
 - [[Circle_of_the_Folded_Veil|Circle of the Folded Veil]] – Tahrun
 - [[The_Drowned_Eye|The Drowned Eye]] – Tahrun
