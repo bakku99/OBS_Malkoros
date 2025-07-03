@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Fellowships/Accorded_Eyes.md",
+                "file": "Greater_Deities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accorded_Eyes"
+              "title": "Greater_Deities"
             }
           }
         ]
@@ -173,16 +173,21 @@
   },
   "active": "dda4aec691179ec2",
   "lastOpenFiles": [
-    "Templates/fellowship_batch_runner.js.md",
-    "Lore/Fellowships/Accorded_Eyes.md",
-    "Templates/fellowship_importer.js.md",
+    "Lore_Index.md",
     "Greater_Deities.md",
+    "Lore/Fellowships/The_Unforgotten.md",
+    "Scripts/copyFellowshipParagraphs.js",
+    "Scripts/New Text Document.txt",
+    "Templates/fellowship_importer.js.md",
+    "Lore/Fellowships/The_Whispering_Quill.md",
+    "Lore/Fellowships/Accorded_Eyes.md",
+    "Scripts",
+    "Templates/fellowship_batch_runner.js.md",
     "Lore/Fellowships/Ashen_Circle.md",
     "Lore/Fellowships/Attendants_of_the_Rapture.md",
-    "Lore/Fellowships/The_Whispering_Quill.md",
     "Lore/Fellowships/Gorehowlers.md",
     "Lore/Fellowships/The_Chainbreakers.md",
-    "Templates",
+    "Scripts",
     "Lore/Lower_Planes_Deities/Azhadûn.md",
     "Lore/Fellowships.md",
     "Lore/Lower_Planes_Deities/Ulvaarak.md",
@@ -198,16 +203,11 @@
     "Lore/Greater_Deities/Solanis.md",
     "Lore/Greater_Deities/Othys.md",
     "Lore/Greater_Deities/Ineas.md",
-    "Lore/Greater_Deities/Hostus.md",
-    "Lore/Greater_Deities/Atotz.md",
     "Lore/Fellowships",
     "Lore/Fellowships",
     "Lore/Granted_Powers",
     "Lore/Symbols",
     "Lore/Fellowships",
-    "Lore/Lower_Planes_Deities",
-    "Lore/Elemental_Deities",
-    "Lore/Lesser_Deities",
-    "Lore/Greater_Deities"
+    "Lore/Lower_Planes_Deities"
   ]
 }
