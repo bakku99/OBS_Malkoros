@@ -2,3 +2,4 @@
 
 
 The Attendents are the largest group of Othys's paths. This path teaches the loving touch of death as the end of one life for another. These are the keepers of Othys's realm, the land of shade and rest. Their words are comforting, inviting the end through an acceptance of Othys's sweet and kind embrace, to take the Walker of Shadows as a lover and lord. The churches of the Attendents include many symbols of peace and tranquility, of acceptance and ascension. The Attendants believe to join with Othys is to achieve ultimate peace and balance. The path also keeps and performs the funeral rites for the dead or dying. Some of the followers of other dieties have sought the Attendants to aid them in the passing of their own. This path may be found throughout the lands of man and elf, with a scant few in the lands of dwarf and gnome.
+[[Othys]]
