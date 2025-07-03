@@ -4,13 +4,21 @@
     {
       "name": "Run Fellowship Importer",
       "id": "aa51d379-d888-4ccc-ac20-17c74b9a9a71",
-      "commands": [],
+      "commands": [
+        {
+          "name": "fellowship_importer",
+          "type": "UserScript",
+          "id": "c0dd8229-7a43-464c-8cbd-844c92daf98c",
+          "path": "Scripts/fellowship_importer.js",
+          "settings": {}
+        }
+      ],
       "runOnStartup": false
     }
   ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "Templates",
   "announceUpdates": true,
   "version": "1.17.0",
   "disableOnlineFeatures": true,

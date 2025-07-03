@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greater_Deities.md",
+                "file": "Templates/Run Fellowship Importer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greater_Deities"
+              "title": "Run Fellowship Importer"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Fellowships.md",
+                "file": "Templates/Run Fellowship Importer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fellowships"
+              "title": "Backlinks for Run Fellowship Importer"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Fellowships.md",
+                "file": "Templates/Run Fellowship Importer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fellowships"
+              "title": "Outgoing links from Run Fellowship Importer"
             }
           },
           {
@@ -142,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Fellowships.md",
+                "file": "Templates/Run Fellowship Importer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fellowships"
+              "title": "Outline of Run Fellowship Importer"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,41 +174,41 @@
   },
   "active": "dda4aec691179ec2",
   "lastOpenFiles": [
-    "Lore_Index.md",
-    "Greater_Deities.md",
-    "Lore/Fellowships/The_Unforgotten.md",
-    "Scripts/copyFellowshipParagraphs.js",
-    "Scripts/New Text Document.txt",
-    "Templates/fellowship_importer.js.md",
     "Lore/Fellowships/The_Whispering_Quill.md",
-    "Lore/Fellowships/Accorded_Eyes.md",
-    "Scripts",
-    "Templates/fellowship_batch_runner.js.md",
-    "Lore/Fellowships/Ashen_Circle.md",
-    "Lore/Fellowships/Attendants_of_the_Rapture.md",
-    "Lore/Fellowships/Gorehowlers.md",
+    "Lore/Fellowships/Tidecallers.md",
+    "Lore/Fellowships/Witchlings_of_the_Night.md",
+    "Lore/Fellowships/Warders_of_the_Gate.md",
+    "Lore/Fellowships/Walkers_of_the_Serpentine_Labyrinth.md",
+    "Lore/Fellowships/Verdant_Core.md",
+    "Lore/Fellowships/Veilbound.md",
+    "Lore/Fellowships/The_Whisperwing.md",
+    "Lore/Fellowships/The_Unforgotten.md",
+    "Lore/Fellowships/The_Order_of_the_Final_Clause.md",
+    "Lore/Fellowships/The_Loomwalkers.md",
+    "Lore/Fellowships/The_Hollow_Remain.md",
+    "Lore/Fellowships/The_Drowned_Eye.md",
+    "Lore/Fellowships/The_Deepbound.md",
+    "Lore/Fellowships/The_Chainforged.md",
     "Lore/Fellowships/The_Chainbreakers.md",
+    "Lore/Fellowships/The_Ashen_Conclave.md",
+    "Lore/Fellowships/Storm_Heralds.md",
+    "Lore/Fellowships/Stonewatchers.md",
+    "Lore/Fellowships/Stagblood_Pact.md",
+    "Lore/Fellowships/Spinning_Stars.md",
+    "Lore/Fellowships/Society_of_Luminaries.md",
+    "Lore/Fellowships/Sisters_of_Stillwater.md",
+    "Lore/Fellowships/Seramaras_Thorn.md",
+    "Lore/Fellowships/Scorchbearers.md",
+    "Lore/Fellowships/Riders_of_the_Dark_Tide.md",
+    "Malkoros_Vault.zip",
+    "Campaigns.zip",
+    "Scripts/fellowship_importer.js",
+    "Scripts/New Text Document.txt",
     "Scripts",
-    "Lore/Lower_Planes_Deities/Azhadûn.md",
-    "Lore/Fellowships.md",
-    "Lore/Lower_Planes_Deities/Ulvaarak.md",
-    "Lore/Lesser_Deities/Xexas.md",
-    "Lore/Lesser_Deities/Vandryl.md",
-    "Lore/Lesser_Deities/Vaelreth.md",
-    "Lore/Lesser_Deities/Tahrun.md",
-    "Lore/Lesser_Deities/Seramara.md",
-    "Lore/Lesser_Deities/Lunessa.md",
-    "Lore/Lesser_Deities/Kaelis.md",
-    "Lore/Greater_Deities/Uztix.md",
-    "Lore/Greater_Deities/Therassor.md",
-    "Lore/Greater_Deities/Solanis.md",
-    "Lore/Greater_Deities/Othys.md",
-    "Lore/Greater_Deities/Ineas.md",
+    "New folder",
+    "Templates",
+    "Scripts/copyFellowshipParagraphs.js",
     "Lore/Fellowships",
-    "Lore/Fellowships",
-    "Lore/Granted_Powers",
-    "Lore/Symbols",
-    "Lore/Fellowships",
-    "Lore/Lower_Planes_Deities"
+    "Lore/Fellowships"
   ]
 }
