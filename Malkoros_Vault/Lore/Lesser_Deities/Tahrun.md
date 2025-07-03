@@ -25,9 +25,12 @@ Tahrun’s followers are often outcasts, visionaries, prophets, and poets. Some 
 
 ### The Whispering Quill
 Wandering scribes who record visions, dreams, and unconscious ramblings in sacred scrolls. Their prophecies are often indecipherable — until they come true.
+[[Fellowships/The_Whispering_Quill|Learn more about the The Whispering Quill]]
 
 ### Circle of the Folded Veil
 Dreamwalkers and planar navigators who use sleep to traverse realms beyond mortal comprehension. They are often insomniacs or narcoleptics, rarely fully awake or fully dreaming.
+[[Fellowships/Circle_of_the_Folded_Veil|Learn more about the Circle of the Folded Veil]]
 
 ### The Drowned Eye
 A cult-like sect that intentionally fractures the mind to "see more clearly." Through ritual madness, fasting, and chanting, they believe they can speak with Tahrun directly. Few who enter their ranks ever return unchanged.
+[[Fellowships/The_Drowned_Eye|Learn more about the The Drowned Eye]]

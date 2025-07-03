@@ -26,9 +26,12 @@ He does not rage. He does not lie. He writes. He binds. He judges. His dominion 
 
 ### The Chainforged
 Devils of the lower circles who serve as enforcers of infernal law. Their chains are sentient, wrapping around liars and oathbreakers without command.
+[[Fellowships/The_Chainforged|Learn more about the The Chainforged]]
 
 ### Accorded Eyes
 Infernal scribes, both mortal and fiendish, who draft contracts, wills, and magical bindings. Their quills are dipped in soul-ink, and their work is said to last even beyond death.
+[[Fellowships/Accorded_Eyes|Learn more about the Accorded Eyes]]
 
 ### The Order of the Final Clause
 Judges and arch-devils who believe every soul will eventually serve Azhadûn — willingly or not. They offer terms of salvation, knowing that damnation lies in the fine print.
+[[Fellowships/The_Order_of_the_Final_Clause|Learn more about the The Order of the Final Clause]]

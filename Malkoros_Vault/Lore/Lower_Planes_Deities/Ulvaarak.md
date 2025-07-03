@@ -26,9 +26,12 @@ He does not rule the Abyss. He is its will — fractured, howling, and eternal. 
 
 ### Maws of the Thousand
 Cults of cannibalistic prophets who believe each act of devouring brings them closer to being “swallowed back” into the Maw.
+[[Fellowships/Maws_of_the_Thousand|Learn more about the Maws of the Thousand]]
 
 ### Gorehowlers
 Screaming berserkers and demonic warlords who tear open the veil between planes through sheer violence. They fight not for conquest, but to ruin the very concept of victory.
+[[Fellowships/Gorehowlers|Learn more about the Gorehowlers]]
 
 ### Children of Shard-Flesh
 Demonic savants who sew different pieces of Ulvaarak’s will into flesh, creating warped “prophets” of madness. They do not speak — their bodies pulse with ritual screams encoded in muscle.
+[[Fellowships/Children_of_Shard-Flesh|Learn more about the Children of Shard-Flesh]]

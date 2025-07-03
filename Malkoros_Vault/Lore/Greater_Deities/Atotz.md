@@ -26,9 +26,12 @@ The fellowships of Atotz are much more loosely organized than those of many othe
 
 ### Spinning Stars
 These followers seek to become bright and shining stars of Atotz. The largest group of worshippers, the Stars walk the world seeking to understand the loving and fickle nature that is fortune and chance. Their views are the basis of Atotz's teachings. One of the largest of Atotz's churches run by the Stars is a gambling house and temple in Taavine, Lumella.
+[[Fellowships/Spinning_Stars|Learn more about the Spinning Stars]]
 
 ### Laughing Maidens
 This all-female group travels the world teaching newcomers to the open road what it trully means to be an adventurer. Many of these women began as serving wenches and daughters of great warriors that did not understand why only men could adventure. Each of them left the safety of their homes and found a common following of other women who loved the freedom of the road. Members of this group meet in taverns throughout Malkoros, with the largest congregation forming in The Glades.
+[[Fellowships/Laughing_Maidens|Learn more about the Laughing Maidens]]
 
 ### Lovers of Fortune
 Many people believe the Lovers are one of the most frightening and stupid groups of people on the face of Malkoros. These followers of Atotz literally throw themselves into dangerous situations, be it leaping from tall cliffs, mooing like a cow to a minotaur, or running into a dragon's maw. It is through their acceptance of chance and the luck of their goddess that they survive. Though, the course of the Lovers' history includes many who have fallen in the service of the Scarlet Mistress.
+[[Fellowships/Lovers_of_Fortune|Learn more about the Lovers of Fortune]]

@@ -25,9 +25,12 @@ Vaelreth's followers often begin as victims or warriors for justice. They are ju
 
 ### Scorchbearers
 These avengers carry the Flame of Vaelreth into the heart of darkness. They hunt slavers, tyrants, and corrupt nobles, delivering divine judgment without mercy. Their presence is often feared even by the righteous.
+[[Fellowships/Scorchbearers|Learn more about the Scorchbearers]]
 
 ### Keepers of the Brand
 Once broken souls, the Keepers mark themselves with Vaelreth's sigil as a sign of eternal oath. They protect the weak and uphold the law where law has crumbled. They rarely kill — but their punishments are swift and absolute.
+[[Fellowships/Keepers_of_the_Brand|Learn more about the Keepers of the Brand]]
 
 ### Ashen Circle
 A small, secretive sect of philosophers, ex-judges, and cursed warriors who debate the boundaries of vengeance and justice. They believe that blind retribution leads only to new cycles of tyranny — and that only the wise should wield the flame.
+[[Fellowships/Ashen_Circle|Learn more about the Ashen Circle]]

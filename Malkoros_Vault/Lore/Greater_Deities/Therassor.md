@@ -26,9 +26,12 @@ The fellowships of Therassor include the following:
 
 ### Warders of the Gate
 The Warders are warrior-clerics who defend the line against darkness and evil. Strong of arm and heart, they face the oncoming darkness wrought in the world by man and beast. Their numbers are found among the greatest of cities and nations and the most quiet and peaceful of villages. This is the largest of Therassor's fellowships with many city guards, warriors, ethical mercenaries, and lords turning to his worship.
+[[Fellowships/Warders_of_the_Gate|Learn more about the Warders of the Gate]]
 
 ### Governors of Battle
 The Governors are tacticians of battle. These warriors begin as scribes and work their way up through a rigorous knighthood to become members. Their studies not only include warfare but the best routes for supplies, keeping wars from overwhelming the populace, the best use of numbers against various odds, and the political meanderings of treaties. They are a holy order seeking to balance honor and dignity with warfare and safety. Although these warriors adhere to a stringent set of rules, they rarely allow the prestige to go to their head. Governors are found among the human nations.
+[[Fellowships/Governors_of_Battle|Learn more about the Governors of Battle]]
 
 ### Ghardankuldar (Stalwart Warriors)
 Born in the dwarven halls of Hughfaruhm and Degh Kuldohr, the warlike dwarves fought amongst themselves and others. As the blood flowed like rivers under the great mountains, the wise warchiefs sought a moral code to follow to end the chaos and strengthen their warriors against outside threats. Coming in a vision was Therassor, guised as the dwarven warrior-king Ghardan Aglar (Stalwart Blade). He battled their greatest of warriors and granted them with his teachings. Their sense of honor awakened, they gathered into an incredible force seeking to bring down the tyranny of poor leaders, end the unethical fighting of mercenaries, and stop the dark tide of Othys's armies. Now many humans have joined the Stalwart Warriors.
+[[Fellowships/Ghardankuldar_Stalwart_Warriors|Learn more about the Ghardankuldar (Stalwart Warriors)]]

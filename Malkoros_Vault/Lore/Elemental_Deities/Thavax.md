@@ -26,9 +26,12 @@ Though rarely worshipped by mortals, Thavax is revered by stone giants, earth el
 
 ### The Deepbound
 Architects and geomancers who shape not just stone, but the memory of the land itself. They build temples, vaults, and tombs meant to last for millennia.
+[[Fellowships/The_Deepbound|Learn more about the The Deepbound]]
 
 ### Stonewatchers
 Vigilant sentries who never leave their post unless the world demands it. Their oaths are eternal, their discipline unmatched. Many stand guard over ancient seals, buried vaults, or sacred gates.
+[[Fellowships/Stonewatchers|Learn more about the Stonewatchers]]
 
 ### Verdant Core
 A secretive order of druids and earthspeakers who believe that Thavax slumbers at the heart of the world, and that the deeper one goes, the closer they come to understanding all things. Their roots lie in Caltorra’s deepest groves and caverns.
+[[Fellowships/Verdant_Core|Learn more about the Verdant Core]]

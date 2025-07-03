@@ -31,9 +31,12 @@ Vandryl’s followers operate in secret or shadowed reverence. They are caretake
 
 ### Order of the Pale Gift
 Caretakers of the dying who offer the choice of eternal, peaceful undeath to those in agony. Their temples double as sanctuaries and mausoleums.
+[[Fellowships/Order_of_the_Pale_Gift|Learn more about the Order of the Pale Gift]]
 
 ### Merciful Hands
 Wandering physicians who heal the living and raise the dead alike. Their symbol is feared by many, yet they are often welcomed by those too desperate to care about the cost.
+[[Fellowships/Merciful_Hands|Learn more about the Merciful Hands]]
 
 ### Duskborn Choir
 Whisper-singers who lull the dying into dreams of undeath. Their chants are said to anchor souls to flesh long enough for necromancers to bind them anew.
+[[Fellowships/Duskborn_Choir|Learn more about the Duskborn Choir]]
