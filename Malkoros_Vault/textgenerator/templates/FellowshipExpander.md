@@ -1,8 +1,16 @@
 ---
 id: fellowship-expander
 provider: OpenAI Chat (Langchain)
-model: gpt-4.1-mini
+model: gpt-4o-mini
 context:
+  # Lore Index
+  - Lore_Index.md
+  # Malkoros Calendar
+  - Lore/Malkoros_Calendar.md
+  # Gods
+  - Lore/Gods.md
+  # Lore Summary
+  - Lore/Lore_Summary.md
   # Greater Deities
   - Lore/Greater_Deities/Atotz.md
   - Lore/Greater_Deities/Hostus.md
@@ -30,9 +38,19 @@ context:
   - Lore/Lower_Planes_Deities/Azhadûn.md
   - Lore/Lower_Planes_Deities/Ulvaarak.md
 prompt: |
-  Use the lore contained in the context files to inspire and expand upon the selected fellowship description. 
-  Emulate the style and mood found across the deity notes and their references. 
-  Write two or three additional paragraphs that build on the excerpt while staying consistent with Malkoros themes.
+  You are an expert on 5th edition Dungeons & Dragons and the worldbuilder behind the Malkoros campaign setting.
+  You have full access to the pantheon, cosmology, and calendar of Malkoros, including the deities, twin moons, infernal planes, and cultural beliefs. 
+  Use that world lore (in the provided context) to write two or three immersive paragraphs that **expand on the selected fellowship**.
+  
+  - Reference relevant gods, planes, or calendar events **if appropriate to the fellowship’s theme**.
+  - Emulate the tone and voice of the existing deity entries (formal, mythical, richly symbolic).
+  - Be concrete: use proper nouns from the context where possible (e.g., Othys, Ulvaarak, Maw of Night, Lyccara, Nerunel).
+  - If the fellowship clearly aligns with a specific domain (e.g. infernal law, moon cycles, undeath), incorporate those metaphysics in lore-appropriate ways.
 ---
+{{#each children}}
+### {{this.title}}
+{{this.content}}
 
+{{/each}}
+**Fellowship:** {{title}}
 {{tg_selection}}
