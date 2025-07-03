@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Fellowships/Accorded_Eyes.md",
+                "file": "Lore/Greater_Deities/Atotz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accorded_Eyes"
+              "title": "Atotz"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Fellowships/Accorded_Eyes.md",
+                "file": "Lore/Greater_Deities/Atotz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Accorded_Eyes"
+              "title": "Backlinks for Atotz"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Fellowships/Accorded_Eyes.md",
+                "file": "Lore/Greater_Deities/Atotz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Accorded_Eyes"
+              "title": "Outgoing links from Atotz"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Fellowships/Accorded_Eyes.md",
+                "file": "Lore/Greater_Deities/Atotz.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Accorded_Eyes"
+              "title": "Outline of Atotz"
             }
           }
         ],
@@ -174,30 +174,6 @@
   },
   "active": "dda4aec691179ec2",
   "lastOpenFiles": [
-    "textgenerator/templates/FellowshipExpander.md",
-    "Lore/Fellowships/Accorded_Eyes.md",
-    "Lore/Lesser_Deities.md",
-    "Lore/Gods.md",
-    "Lore/Elemental_Deities.md",
-    "Lore/Lower_Planes_Deities.md",
-    "Lore/Greater_Deities.md",
-    "Lore/Fellowships/Ashen_Circle.md",
-    "Lore/Pantheon_Structure.md",
-    "Lore_Index.md",
-    "Lore/Lower_Planes_Deities/Azhadûn.md",
-    "Malkoros_Vault.zip",
-    "Campaigns.zip~RF290efe54.TMP",
-    "Campaigns.zip",
-    "Lore/Lore_Summary.md",
-    "Lore/Malkoros_Calendar.md",
-    "Lore/Lesser_Deities/Vandryl.md",
-    "textgenerator/templates",
-    "textgenerator/New folder",
-    "textgenerator/FellowshipExpander.md",
-    "textgenerator/New Text Document.txt",
-    "textgenerator/README.md",
-    "textgenerator",
-    "New folder",
     "Lore/Fellowships/Witchlings_of_the_Night.md",
     "Lore/Fellowships/Warders_of_the_Gate.md",
     "Lore/Fellowships/Walkers_of_the_Serpentine_Labyrinth.md",
@@ -208,7 +184,31 @@
     "Lore/Fellowships/The_Whispering_Quill.md",
     "Lore/Fellowships/The_Unforgotten.md",
     "Lore/Fellowships/The_Order_of_the_Final_Clause.md",
-    "Scripts/fellowship_importer_v2.js",
-    "Scripts/fellowship_importer.js"
+    "Lore/Fellowships/The_Loomwalkers.md",
+    "Lore/Fellowships/The_Hollow_Remain.md",
+    "Lore/Fellowships/The_Drowned_Eye.md",
+    "Lore/Fellowships/The_Deepbound.md",
+    "Lore/Fellowships/The_Chainforged.md",
+    "Lore/Fellowships/The_Chainbreakers.md",
+    "Lore/Fellowships/The_Ashen_Conclave.md",
+    "Lore/Fellowships/Storm_Heralds.md",
+    "Lore/Fellowships/Stonewatchers.md",
+    "Lore/Fellowships/Stagblood_Pact.md",
+    "Lore/Fellowships/Spinning_Stars.md",
+    "Lore/Fellowships/Society_of_Luminaries.md",
+    "Lore/Fellowships/Sisters_of_Stillwater.md",
+    "Lore/Fellowships/Seramaras_Thorn.md",
+    "Lore/Fellowships/Scorchbearers.md",
+    "Lore/Fellowships/Riders_of_the_Dark_Tide.md",
+    "Scripts/fellowship_backlinker.js",
+    "Malkoros_Vault.zip",
+    "Campaigns.zip~RF290efe54.TMP",
+    "Campaigns.zip",
+    "textgenerator/templates",
+    "textgenerator/New folder",
+    "textgenerator/New Text Document.txt",
+    "textgenerator",
+    "New folder",
+    "Scripts/fellowship_importer_v2.js"
   ]
 }
