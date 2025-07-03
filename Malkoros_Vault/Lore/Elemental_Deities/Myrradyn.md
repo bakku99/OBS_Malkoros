@@ -26,9 +26,12 @@ He is magic in its truest, wildest form: brilliant, unstable, self-aware, and ne
 
 ### The Loomwalkers
 Planar travelers and spell-weavers who study how magic ties all things together. They believe every spell cast is a ripple across the true Weave, and they seek to learn its original language.
+[[Fellowships/The_Loomwalkers|Learn more about the The Loomwalkers]]
 
 ### Inkborn Choir
 Transmuted spell-scrolls given sentience, along with mortal archivists who believe writing is the purest form of worship. Their prayers are written, never spoken, and sometimes change retroactively.
+[[Fellowships/Inkborn_Choir|Learn more about the Inkborn Choir]]
 
 ### Fractaline Circle
 A secretive cabal of mages who willingly break their own minds to glimpse higher arcane understanding. They function as collective beings — fractured but unified — wielding unstable magic with unmatched creativity.
+[[Fellowships/Fractaline_Circle|Learn more about the Fractaline Circle]]

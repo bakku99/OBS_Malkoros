@@ -26,9 +26,12 @@ To her followers, Nysthariel is not a goddess of evil, but of knowing what other
 
 ### Maskbearers
 Monks and whisperers who wear emotionless masks as symbols of truth withheld. They record every lie they hear and offer those records to Nysthariel in ink made from their own blood.
+[[Fellowships/Maskbearers|Learn more about the Maskbearers]]
 
 ### The Hollow Remain
 Mourners who walk the lands collecting grief. They absorb and preserve the last memories of the dead, sealing them in shadowglass. Their presence is said to ease restless spirits and silence the undead.
+[[Fellowships/The_Hollow_Remain|Learn more about the The Hollow Remain]]
 
 ### Echobinders
 Sorcerers, assassins, and voidmages who bind sound, reflection, and memory to their will. They believe that all stories are shadows cast by greater truths — and that cutting the shadow can reshape the source.
+[[Fellowships/Echobinders|Learn more about the Echobinders]]

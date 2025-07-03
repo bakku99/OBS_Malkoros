@@ -26,9 +26,12 @@ He is a god of travel, revelation, madness, and sudden change — the divine emb
 
 ### Cloudchasers
 Skyborn acolytes who leap between isles of wind with wings or spells. They believe the soul must fly untethered through both life and afterlife, and they map the “skylines” of all planes.
+[[Fellowships/Cloudchasers|Learn more about the Cloudchasers]]
 
 ### Storm Heralds
 Oracles and battle-priests who summon tempests in Zephrayl’s name. They bring change to stagnant lands, justice to tyrants, or madness to the overly ordered.
+[[Fellowships/Storm_Heralds|Learn more about the Storm Heralds]]
 
 ### The Whisperwing
 A secretive fellowship of spies, dreamwalkers, and elemental windshapers who pass unseen across borders, listening for divine truths carried on the breeze. They rarely speak — but their messages echo for miles.
+[[Fellowships/The_Whisperwing|Learn more about the The Whisperwing]]

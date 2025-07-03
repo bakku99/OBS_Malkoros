@@ -25,9 +25,12 @@ Xexas’ followers are spies, assassins, courtiers, and seducers. They thrive in
 
 ### Bladed Veil
 A deadly cabal of courtesans and actors who double as master assassins. Every performance, every love affair, may be a trap.
+[[Fellowships/Bladed_Veil|Learn more about the Bladed Veil]]
 
 ### Children of the Second Tongue
 Diplomats, scribes, and spies who speak lies as if they were prophecy. Their oath: “We speak, and the world bends.”
+[[Fellowships/Children_of_the_Second_Tongue|Learn more about the Children of the Second Tongue]]
 
 ### Lachrymists
 Poison-makers and torturers who believe suffering is art. Their toxins don’t just kill — they reveal. To be Lachrymisted is to confess your soul.
+[[Fellowships/Lachrymists|Learn more about the Lachrymists]]

@@ -26,9 +26,12 @@ Pyrius is neither cruel nor kind — he simply burns. Where his touch passes, ne
 
 ### Burning Sons
 Devoted warriors and monks who burn away impurity through sacred flame. They practice immolation rituals and view pain as the passage to transcendence. Often seen leading purging missions against planar invaders or corruption.
+[[Fellowships/Burning_Sons|Learn more about the Burning Sons]]
 
 ### Cinderscribes
 Chroniclers of transformation who use flame to create impermanent masterpieces, from architecture to living beings. They believe true art can only be born in flame — and must also die in it.
+[[Fellowships/Cinderscribes|Learn more about the Cinderscribes]]
 
 ### The Ashen Conclave
 A secretive order of efreeti and salamanders who see Pyrius not only as a god of creation, but as the rightful ruler of all elemental planes. They plan conquest in his name, though Pyrius himself seems indifferent to mortal politics.
+[[Fellowships/The_Ashen_Conclave|Learn more about the The Ashen Conclave]]

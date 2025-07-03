@@ -25,9 +25,12 @@ Followers of Seramara are healers, poets, guardians of the grieving, and celebra
 
 ### Order of the Crimson Veil
 A sacred group of griefwardens who preside over funerals, deliver last rites, and assist those who have lost loved ones. They are revered by the common folk and feared by necromancers.
+[[Fellowships/Order_of_the_Crimson_Veil|Learn more about the Order of the Crimson Veil]]
 
 ### The Unforgotten
 Wandering lorekeepers who record lost histories, loves, and final words. They carve names and stories into stone tablets and starlit shrines, ensuring no soul is truly forgotten.
+[[Fellowships/The_Unforgotten|Learn more about the The Unforgotten]]
 
 ### Seramara’s Thorn
 A vengeful sect of lovers scorned or betrayed. They walk a darker road, believing that love defiled must be avenged. While controversial, they are protected by divine sanction — for even love's pain is sacred.
+[[Fellowships/Seramara’s_Thorn|Learn more about the Seramara’s Thorn]]

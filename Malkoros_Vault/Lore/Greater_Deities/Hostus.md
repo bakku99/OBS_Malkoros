@@ -26,9 +26,12 @@ The Fellowships of Hostus include the following:
 
 ### Eyes of Creation
 The Eyes watch and protect all of nature. They can be found within all environments from urban cities to desolate plains. They see beauty and pain in all settings of nature. Through their patient work, they seek to aid life in those areas, to help it survive and thrive against the dangers of encroaching man or the changes of time.
+[[Fellowships/Eyes_of_Creation|Learn more about the Eyes of Creation]]
 
 ### Dancers of the Oak
 The Dancers take great joy in nature, the power and beauty of it. These followers tend to be beautiful in some way, be it of features or art. They seek to touch all of nature, to enhance its beauty and life, to heal and nuture. Each season of spring, they gather around oak trees, dancing in the moonlight and weaving ribbons of greens, golds, and pinks. If the year proves to be favorable, the ribbons blossom into flowers and vines the next morning.
+[[Fellowships/Dancers_of_the_Oak|Learn more about the Dancers of the Oak]]
 
 ### Witchlings of the Night
 The Witchlings are a group that the followers of Hostus wish they could forget. When Hostus tasted Othys's tongue and blood, a dark seed of anger and treachery blossomed in the lord of nature. When he spat forth that tongue and seed into the earth, fires erupted and birthed a child of dark nature. This child gathered followers of Othys, who believe nature is dangerous, beautiful, and deadly. To this day, this small and secretive sect works to destroy all creations of civilization, and then replace them with their ideal of nature.
+[[Fellowships/Witchlings_of_the_Night|Learn more about the Witchlings of the Night]]

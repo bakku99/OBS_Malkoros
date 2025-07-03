@@ -26,9 +26,12 @@ To mortals and elementals alike, Eirsyr is enigmatic and cold in every sense —
 
 ### Glacient Wardens
 Guardians of knowledge, relics, and prisoners sealed away for all time. They believe some things are too dangerous to destroy — and must instead be forgotten beneath ice.
+[[Fellowships/Glacient_Wardens|Learn more about the Glacient Wardens]]
 
 ### Tidecallers
 Sorcerers and prophets who read the flow of currents and weather to divine the fates of mortals. They move with the tides of fate, and their word is often followed by floods or salvation.
+[[Fellowships/Tidecallers|Learn more about the Tidecallers]]
 
 ### Sisters of Stillwater
 A reclusive sect of priestesses, oracles, and memory-keepers who bathe the dying in sacred pools to preserve their final thoughts. They believe that in freezing memory, the soul is granted peace.
+[[Fellowships/Sisters_of_Stillwater|Learn more about the Sisters of Stillwater]]

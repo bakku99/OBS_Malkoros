@@ -1,5 +1,6 @@
 [
   "dataview",
   "templater-obsidian",
-  "obsidian-textgenerator-plugin"
+  "obsidian-textgenerator-plugin",
+  "quickadd"
 ]
