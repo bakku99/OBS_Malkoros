@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Lesser_Deities.md",
+                "file": "Lore/Fellowships/Accorded_Eyes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesser_Deities"
+              "title": "Accorded_Eyes"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Elemental_Deities/Eirsyr.md",
+                "file": "textgenerator/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eirsyr"
+              "title": "README"
             }
           }
         ]
@@ -188,6 +188,15 @@
   },
   "active": "dda4aec691179ec2",
   "lastOpenFiles": [
+    "Lore/Fellowships/Ashen_Circle.md",
+    "Lore/Fellowships/Attendants_of_the_Rapture.md",
+    "Lore/Fellowships/Bladed_Veil.md",
+    "Lore/Fellowships/Accorded_Eyes.md",
+    "textgenerator/README.md",
+    "Lore/Greater_Deities/Othys.md",
+    "Lore/Lesser_Deities/Vaelreth.md",
+    "Lore/Elemental_Deities/Eirsyr.md",
+    "Lore/Lesser_Deities.md",
     "Lore/Fellowships/Seramaras_Thorn.md",
     "Lore/Lesser_Deities/Seramara.md",
     "Lore/Timeline.md",
@@ -195,7 +204,6 @@
     "Lore/Pantheon_Structure.md",
     "Lore/Elemental_Deities.md",
     "Lore/Lower_Planes_Deities.md",
-    "Lore/Lesser_Deities.md",
     "Lore/Greater_Deities.md",
     "Lore/Granted_Powers.md",
     "Lore/Gods.md",
@@ -203,17 +211,9 @@
     "Lore/Genesis.md",
     "Lore/Fellowships.md",
     "Lore/Greater_Deities/Solanis.md",
-    "Lore/Elemental_Deities/Eirsyr.md",
     "Lore/Greater_Deities/Atotz.md",
     "Lore/Greater_Deities/Hostus.md",
     "Lore/Greater_Deities/Ineas.md",
-    "Lore/Greater_Deities/Othys.md",
-    "Lore/Greater_Deities/Therassor.md",
-    "Lore/Greater_Deities/Uztix.md",
-    "Lore/Lesser_Deities/Kaelis.md",
-    "Lore/Lesser_Deities/Lunessa.md",
-    "Lore/Lesser_Deities/Tahrun.md",
-    "Lore/Lesser_Deities/Vaelreth.md",
     "Scripts/fellowship_backlinker.js",
     "Malkoros_Vault.zip",
     "Campaigns.zip~RF290efe54.TMP",
