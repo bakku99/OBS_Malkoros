@@ -1,6 +1,6 @@
 # Granted Powers
 
-Summary of the boons granted to faithful followers of each deity.
+Summary of the boons granted to faithful followers, which must be of the Cleric, Warlock, or Paladin Class, of each deity. The Deities have internal links to their respective files followed by a colon and an explanation of the Granted Powers they provide.
 
 ## Elemental Deities
 - [[Elemental_Deities/Eirsyr|Eirsyr]]: Immunity to cold damage. Cast Wall of Ice once per long rest. Followers may breathe and move normally in freezing environments and water regardless of form.

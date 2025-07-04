@@ -1,6 +1,6 @@
 # Greater Deities
 
-These are the cosmic architects of reality, ruling over the Prime Material, Celestial realms, and beyond.
+These are the cosmic architects of reality, ruling over the Prime Material, Celestial realms, and beyond. Internal links are provided to the respective Deity files.
 
 - [[Solanis]] – God of Light and Life  
 - [[Therassor]] – God of Righteous Battle  
@@ -9,7 +9,3 @@ These are the cosmic architects of reality, ruling over the Prime Material, Cele
 - [[Hostus]] – God of Nature  
 - [[Ineas]] – Goddess of Knowledge  
 - [[Uztix]] – Goddess of Murder and Evil
-
-
-
-

@@ -1,6 +1,6 @@
 # Symbols
 
-A reference of the divine symbols associated with each god.
+A reference of the divine symbols associated with each Deity. An Internal link is provided to the respective Deity file. This is followed by a colon and the description of the Symbol of the respective Deity.
 
 ## Elemental Deities
 - [[Elemental_Deities/Eirsyr|Eirsyr]]: A teardrop encased in a six-pointed snowflake

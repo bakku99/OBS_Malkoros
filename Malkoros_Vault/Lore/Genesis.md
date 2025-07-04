@@ -4,7 +4,7 @@ In the vast tapestry of the multiverse, where myriad worlds and planes intersect
 
 The genesis of Malkoros began in the timeless void, a canvas of pure potential where the Greater Deities convened in a council of creation. Each deity, embodying fundamental aspects of the universe, contributed their essence and vision to forge a world of complex beauty and inherent magic.
 
-The Divine Conclave and Creation:
+## The Divine Conclave and Creation:
 
 1. Solanis, God of Light and Life, breathed into the void the radiant light of the first dawn and the vital spark that would animate all living beings. His light spread across the nascent world, banishing shadows and nurturing the seeds of life that would grow into diverse flora and fauna.
 
@@ -20,15 +20,15 @@ The Divine Conclave and Creation:
 
 7. Uztix, Goddess of Murder and Evil, introduced the necessary darkness, the challenges that would test the mettle and morality of Malkoros’ denizens. Her influence ensured that the world would have depth, its shadows making the light brighter by contrast.
 
-The Elemental Contribution:
+## The Elemental Contribution:
 
 Beyond the initial creation by the Greater Deities, the Elemental Gods of Fire, Ice, Wind, Shadow, Arcane, and Earth molded the world further, adding to its environmental diversity and elemental magic. Each elemental lord shaped their domain, creating the intricate balance of climates and geography that characterizes Malkoros today.
 
-The Role of Lesser Deities:
+### The Role of Lesser Deities:
 
 As Malkoros matured, several mortals of extraordinary virtue or infamy ascended to divinity, becoming Lesser Deities. These gods, closer to the mortal experiences, became patrons of specific cultures, crafts, and ideals that emerged across the various civilizations of Malkoros. Their temples dot the landscape, each a focal point for the divine magic that flows through the realm.
 
-The Resulting World:
+### The Resulting World:
 
 Malkoros, crafted by divine hands and elemental forces, matured into a world teeming with life, magic, and complexity. Its history, marked by the rise and fall of empires, the clash of gods, and the deeds of heroes, is a living narrative shaped by the divine legacy of its creators. The world continues to evolve, each era adding layers to the rich tapestry begun by the Greater Deities in the dawn time of creation. 
 

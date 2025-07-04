@@ -10,7 +10,7 @@ Fellowships:
 
 # Hostus
 
-Hostus- God of Nature
+Hostus, The Eyes of Evergreen – God of Nature
 
 Hostus is the patron god of the Elves, as well as the lord of nature in Malkoros. His followers are powerful in nature, focusing themselves on the healing and control of nature rather than combat. He is the father of seasons, the center of the world, the wisdom of trees and stone. Hostus is worshipped abundantly in Caltorra but renown all over Malkoros.
 

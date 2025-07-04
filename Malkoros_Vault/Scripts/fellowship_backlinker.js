@@ -21,14 +21,19 @@ module.exports = async (tp) => {
     const fellowshipSectionMatch = content.split(/\n##\s+Fellowship/)[1];
     if (!fellowshipSectionMatch) continue;
 
-    const regex = /^###\s+([^\n]+)\n([\s\S]*?)(?=\n###|\n##|\n#|\Z)/gm;
-    let m;
-    while ((m = regex.exec(fellowshipSectionMatch)) !== null) {
-      const paragraph = m[2];
-      const linkMatch = paragraph.match(/\[\[(Fellowships\/[^|\]]+)/);
+    const sections = fellowshipSectionMatch
+      .split(/\n(?=###\s+)/)
+      .slice(1);
+    for (const section of sections) {
+      const lines = section.split(/\n/);
+      const paragraph = lines.slice(1).join("\n");
+      const linkMatch = paragraph.match(/\[\[([^|\]]+)/);
       if (!linkMatch) continue;
       let relPath = linkMatch[1];
-      if (!relPath.endsWith('.md')) relPath += '.md';
+      if (!relPath.startsWith("Fellowships/")) {
+        relPath = `Fellowships/${relPath}`;
+      }
+      if (!relPath.endsWith(".md")) relPath += ".md";
       const fullPath = `Lore/${relPath}`;
       const ffile = vault.getAbstractFileByPath(fullPath);
       if (!ffile) continue;

@@ -10,7 +10,7 @@ Fellowships:
 
 # Therassor
 
-Therassor - God of Righteous Battle
+Therassor, Warden of Justice – God of Righteous Battle
 
 As the god of just battle, Therassor is popular among knights, and many otherwise non-religious soldiers and warriors will invoke his name on the battlefield. Clerics of Therassor often work hand-in-hand with the armies of good-aligned secular governments. As relatively little emphasis is placed on religious services, many of this god's clerics may actually serve as "holy warriors" to their respective crowns. It is not uncommon to see a cleric hold an officer's title, as they are well-versed in the teachings of battlefield tactics as well as personal combat.
 
