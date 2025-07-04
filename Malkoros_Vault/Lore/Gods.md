@@ -43,4 +43,4 @@ Fiends, demons, and abyssal lords.
 - [[Azhadûn]] - Greater God of Tyranny, Contracts, and Damnation
 - [[Ulvaarak]] - Greater God of Madness, Ruin, and Endless Hunger
 
-> See also: [[Pantheon Structure]], [[Fellowships]], [[Symbols]], [[Granted Powers]]
+> See also: [[Pantheon_Structure]], [[Fellowships]], [[Symbols]], [[Granted_Powers]]

@@ -1,6 +1,6 @@
 # Elemental Deities
 
-Primordial powers over fire, water, air, earth, arcane, and shadow.
+Primordial powers over fire, water, air, earth, arcane, and shadow. Internal links are provided to the respective Deity files.
 
 - [[Eirsyr]] - Greater Goddess of Ice, Water, and Preservation
 - [[Myrradyn]] - Greater God of Arcane, Weave, and Unraveling

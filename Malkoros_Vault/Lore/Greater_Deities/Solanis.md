@@ -11,7 +11,7 @@ Fellowships:
 
 # Solanis
 
-Solanis, God of Light and Life
+Solanis, The Beacon of Life – God of Light and Life
 
 Priests of Solanis are welcome in almost any town, and are often considered to be good luck. This god is favorably viewed by commoners, and his worship is widespread.
 

@@ -10,7 +10,7 @@ Fellowships:
 
 # Atotz
 
-Atotz - Goddess of Luck
+Atotz, Lady Luck – Goddess of Luck
 
 Atotz is, quite simply put, Lady Luck. Her devoters are bold, brave, and somewhat reckless. Luck is the only thing that they rely on, even though it sometimes fails them.
 

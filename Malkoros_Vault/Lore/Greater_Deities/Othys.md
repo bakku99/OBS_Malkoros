@@ -10,9 +10,7 @@ Fellowships:
 
 # Othys
 
-Othys - God of Death
-
-Nickname: The Devourer, The Walker of Shadows
+Othys, The Devourer and Walker of Shadows – God of Death
 
 Othys is said to be the keeper of the underworld and ruler of hells, though that is not true. Though many think of him as an evil entity, others recognize that death is part of the circle of life and should be embraced, not condemned. While there are temples throughout Malkoros dedicated to Othys, worshippers might be frowned upon or thought of as eccentric and avoidable characters.
 

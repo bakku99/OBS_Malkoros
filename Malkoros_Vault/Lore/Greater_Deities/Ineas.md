@@ -11,7 +11,7 @@ Fellowships:
 
 # Ineas
 
-Ineas - Goddess of Knowledge
+Ineas, Madam Mindful – Goddess of Knowledge
 
 Followers of Ineas, like their dietress, seek knowledge. Priests of Ineas are often sough as advisors and seers.
 

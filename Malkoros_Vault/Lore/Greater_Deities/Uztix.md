@@ -10,7 +10,7 @@ Fellowships:
 
 # Uztix
 
-Uztix - Goddess of Murder and Evil
+Uztix, The Serpentine Temptress – Goddess of Murder and Evil
 
 Uztix ranks cheif among the evil deities of Malkoros. Whether out of loyalty or fear, all of the other dark powers bow to her authority. Worship of Uztix is both widespread and open in the Underdark; elsewhere, it is less common, and much more secretive.
 The Dark Lady works through force and conquest wherever possible, but her true forte is in deceit and manipulation. She constantly looks to further her power by corrupting those who can be compromised.
