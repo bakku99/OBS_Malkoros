@@ -5,18 +5,18 @@
   "api_key": "",
   "encrypt_keys": false,
   "selectedProvider": "OpenAI Chat (Langchain)",
-  "max_tokens": 6000,
+  "max_tokens": 32000,
   "temperature": 0.7,
   "frequency_penalty": 0.5,
   "showStatusBar": true,
   "outputToBlockQuote": false,
   "freeCursorOnStreaming": false,
-  "allowJavascriptRun": false,
+  "allowJavascriptRun": true,
   "experiment": false,
   "promptsPath": "textgenerator/templates",
   "textGenPath": "textgenerator/",
   "prefix": "\n\n",
-  "tgSelectionLimiter": "^\\*\\*\\*",
+  "tgSelectionLimiter": "",
   "stream": true,
   "context": {
     "customInstructEnabled": false,
@@ -24,7 +24,7 @@
     "customInstruct": "You are an expert on 5th edition Dungeons & Dragons and serve as an assistant in expanding the notes and lore for the custom Campaign setting of Malkoros.\n{{#each children}}\n### {{this.title}}\n\n{{this.content}}\n\n{{/each}}\n\n{{tg_selection}}\n",
     "contextTemplate": "Title: {{title}}\n\t\nStarred Blocks: {{starredBlocks}}\n\t  \n{{tg_selection}}"
   },
-  "requestTimeout": 300000,
+  "requestTimeout": 3000000000,
   "options": {
     "generate-text": true,
     "generate-text-with-metadata": true,
@@ -100,7 +100,7 @@
     "OpenAI Chat (Langchain)": {
       "basePath": "https://api.openai.com/v1",
       "api_key": "",
-      "model": "gpt-4o"
+      "model": "gpt-4.1"
     }
   },
   "LLMProviderOptionsKeysHashed": {
