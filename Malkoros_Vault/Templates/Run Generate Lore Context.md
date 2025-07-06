@@ -1,0 +1,1 @@
+<%* await tp.user.generate_lore_context(tp) %>

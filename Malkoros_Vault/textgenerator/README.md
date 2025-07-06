@@ -2,13 +2,18 @@
 
 This folder holds custom templates used by the **Text Generator** plugin. `FellowshipExpander.md` expands a selected fellowship description while drawing on the entire Malkoros lore library so every addition matches the established voice.
 
-The context list inside `FellowshipExpander.md` is generated automatically by running:
+The context list inside `FellowshipExpander.md` is generated automatically. You can update it in two ways:
 
 ```
 node Scripts/generate_lore_context.js
 ```
 
-Run this script whenever you add new lore notes so the template includes them all.
+Run the command above from a terminal, **or** invoke the script through Obsidian’s Templater plugin by selecting **Templater: Run User Script** and choosing `generate_lore_context`.
+Use either method whenever you add new lore notes so the template includes them all.
+
+Before inserting new text, refresh the context list:
+1. Open the command palette and run **Templater: Run User Script**.
+2. Select `generate_lore_context` to update `FellowshipExpander.md`.
 
 ### Usage
 1. Open a fellowship note, e.g. `Lore/Fellowships/Verdant_Core.md`.

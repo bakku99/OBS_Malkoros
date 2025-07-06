@@ -1,36 +1,57 @@
 const fs = require('fs');
 const path = require('path');
 
-const vaultDir = path.resolve(__dirname, '..');
-const loreDir = path.join(vaultDir, 'Lore');
-const templatePath = path.join(vaultDir, 'textgenerator', 'templates', 'FellowshipExpander.md');
-
-function listMarkdownFiles(dir) {
+function listMarkdownFiles(dir, base) {
   const entries = fs.readdirSync(dir, { withFileTypes: true });
   let files = [];
   for (const entry of entries) {
     const full = path.join(dir, entry.name);
     if (entry.isDirectory()) {
-      files = files.concat(listMarkdownFiles(full));
+      files = files.concat(listMarkdownFiles(full, base));
     } else if (entry.isFile() && entry.name.endsWith('.md')) {
-      files.push(path.relative(vaultDir, full));
+      files.push(path.relative(base, full));
     }
   }
   return files.sort();
 }
 
-const files = listMarkdownFiles(loreDir);
-files.unshift('Lore_Index.md');
+async function updateContext(vaultDir) {
+  const loreDir = path.join(vaultDir, 'Lore');
+  const templatePath = path.join(
+    vaultDir,
+    'textgenerator',
+    'templates',
+    'FellowshipExpander.md'
+  );
 
-let template = fs.readFileSync(templatePath, 'utf8');
-const start = template.indexOf('context:');
-if (start === -1) throw new Error('context section not found');
-const promptIndex = template.indexOf('prompt:', start);
-if (promptIndex === -1) throw new Error('prompt section not found');
+  const files = listMarkdownFiles(loreDir, vaultDir);
+  files.unshift('Lore_Index.md');
 
-const before = template.slice(0, start) + 'context:\n';
-const after = template.slice(promptIndex);
-const list = files.map(f => `  - ${f}`).join('\n');
-const newContent = before + list + '\n' + after;
-fs.writeFileSync(templatePath, newContent);
-console.log(`Updated context with ${files.length} files.`);
+  let template = fs.readFileSync(templatePath, 'utf8');
+  const start = template.indexOf('context:');
+  if (start === -1) throw new Error('context section not found');
+  const promptIndex = template.indexOf('prompt:', start);
+  if (promptIndex === -1) throw new Error('prompt section not found');
+
+  const before = template.slice(0, start) + 'context:\n';
+  const list = files.map((f) => `  - ${f}`).join('\n');
+  const newContent = before + list + '\n' + template.slice(promptIndex);
+  fs.writeFileSync(templatePath, newContent);
+  return files.length;
+}
+
+if (require.main === module) {
+  const vaultDir = path.resolve(__dirname, '..');
+  updateContext(vaultDir).then((count) => {
+    console.log(`Updated context with ${count} files.`);
+  });
+} else {
+  module.exports = async (tp) => {
+    const base = tp.app.vault.adapter.basePath ||
+      (tp.app.vault.adapter.getBasePath && tp.app.vault.adapter.getBasePath());
+    const count = await updateContext(base);
+    if (tp.obsidian) {
+      new tp.obsidian.Notice(`Updated FellowshipExpander with ${count} files`);
+    }
+  };
+}
