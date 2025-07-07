@@ -1,5 +1,26 @@
 ---
+Title: Walkers_of_the_Serpentine_Labyrinth
+Type: Fellowship
+Directory: Lore/Fellowships/Walkers_of_the_Serpentine_Labyrinth
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Uztix
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Oracles of Oblivion
+  - Riders of the Dark Tide
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - uztix
 ---
 
 # Walkers of the Serpentine Labyrinth

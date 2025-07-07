@@ -1,5 +1,24 @@
 ---
+Title: Fractaline_Circle
+Type: Fellowship
+Directory: Lore/Fellowships/Fractaline_Circle
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Myrradyn
+Planes:
+  - Elemental
+  - Arcane
+Pantheon: Elemental_Deities
+Associated_Fellowships:
+  - Inkborn Choir
+  - The Loomwalkers
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - myrradyn
 ---
 
 # Fractaline Circle

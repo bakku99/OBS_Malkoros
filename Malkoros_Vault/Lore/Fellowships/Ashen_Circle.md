@@ -1,5 +1,31 @@
 ---
+Title: Ashen_Circle
+Type: Fellowship
+Directory: Lore/Fellowships/Ashen_Circle
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Vaelreth
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Associated_Fellowships:
+  - Scorchbearers
+  - Keepers of the Brand
+tags:
+  - fellowships
+  - fellowship
+  - organizations
+  - organization
+  - obrenic
+  - obrenic_dominion
+  - justice
+  - vengeance
+  - ashen_rebellion
+  - vaelreth
 ---
 
 # Ashen Circle

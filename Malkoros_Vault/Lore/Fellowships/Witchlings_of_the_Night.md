@@ -1,5 +1,26 @@
 ---
+Title: Witchlings_of_the_Night
+Type: Fellowship
+Directory: Lore/Fellowships/Witchlings_of_the_Night
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Hostus
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Dancers of the Oak
+  - Eyes of Creation
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - hostus
 ---
 
 # Witchlings of the Night

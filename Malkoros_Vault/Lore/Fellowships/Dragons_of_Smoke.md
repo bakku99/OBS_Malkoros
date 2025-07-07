@@ -1,5 +1,26 @@
 ---
+Title: Dragons_of_Smoke
+Type: Fellowship
+Directory: Lore/Fellowships/Dragons_of_Smoke
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Othys
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Attendants of the Rapture
+  - Dark Hand
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - othys
 ---
 
 # Dragons of Smoke

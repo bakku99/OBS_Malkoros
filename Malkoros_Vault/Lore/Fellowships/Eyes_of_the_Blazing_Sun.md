@@ -1,5 +1,27 @@
 ---
+Title: Eyes_of_the_Blazing_Sun
+Type: Fellowship
+Directory: Lore/Fellowships/Eyes_of_the_Blazing_Sun
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Solanis
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Dawnbringers
+  - Knights of Aina'rutha
+  - Society of Luminaries
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - solanis
 ---
 
 # Eyes of the Blazing Sun

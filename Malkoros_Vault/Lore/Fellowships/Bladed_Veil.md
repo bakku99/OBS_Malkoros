@@ -1,5 +1,26 @@
 ---
+Title: Bladed_Veil
+Type: Fellowship
+Directory: Lore/Fellowships/Bladed_Veil
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Xexas
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Associated_Fellowships:
+  - Children of the Second Tongue
+  - Lachrymists
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - xexas
 ---
 
 # **Bladed Veil**

@@ -1,5 +1,26 @@
 ---
+Title: Laughing_Maidens
+Type: Fellowship
+Directory: Lore/Fellowships/Laughing_Maidens
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Atotz
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Lovers of Fortune
+  - Spinning Stars
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - atotz
 ---
 
 # Laughing Maidens

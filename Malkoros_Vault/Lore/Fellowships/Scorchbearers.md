@@ -1,5 +1,26 @@
 ---
+Title: Scorchbearers
+Type: Fellowship
+Directory: Lore/Fellowships/Scorchbearers
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Vaelreth
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Associated_Fellowships:
+  - Ashen Circle
+  - Keepers of the Brand
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - vaelreth
 ---
 
 # Scorchbearers

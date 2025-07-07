@@ -1,5 +1,24 @@
 ---
+Title: The_Whisperwing
+Type: Fellowship
+Directory: Lore/Fellowships/The_Whisperwing
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Zephrayl
+Planes:
+  - Elemental
+  - Air
+Pantheon: Elemental_Deities
+Associated_Fellowships:
+  - Cloudchasers
+  - Storm Heralds
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - zephrayl
 ---
 
 # The Whisperwing

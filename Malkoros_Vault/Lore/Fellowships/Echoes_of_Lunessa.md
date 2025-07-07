@@ -1,5 +1,26 @@
 ---
+Title: Echoes_of_Lunessa
+Type: Fellowship
+Directory: Lore/Fellowships/Echoes_of_Lunessa
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Lunessa
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Associated_Fellowships:
+  - Moonlit Striders
+  - Veilbound
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - lunessa
 ---
 
 # Echoes of Lunessa

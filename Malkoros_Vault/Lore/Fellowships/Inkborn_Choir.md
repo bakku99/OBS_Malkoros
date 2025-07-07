@@ -1,5 +1,24 @@
 ---
+Title: Inkborn_Choir
+Type: Fellowship
+Directory: Lore/Fellowships/Inkborn_Choir
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Myrradyn
+Planes:
+  - Elemental
+  - Arcane
+Pantheon: Elemental_Deities
+Associated_Fellowships:
+  - Fractaline Circle
+  - The Loomwalkers
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - myrradyn
 ---
 
 # Inkborn Choir

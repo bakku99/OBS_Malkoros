@@ -1,5 +1,24 @@
 ---
+Title: Stonewatchers
+Type: Fellowship
+Directory: Lore/Fellowships/Stonewatchers
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Thavax
+Planes:
+  - Elemental
+  - Earth
+Pantheon: Elemental_Deities
+Associated_Fellowships:
+  - The Deepbound
+  - Verdant Core
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - thavax
 ---
 
 # Stonewatchers

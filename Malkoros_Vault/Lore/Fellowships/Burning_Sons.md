@@ -1,5 +1,25 @@
 ---
+Title: Burning_Sons
+Type: Fellowship
+Directory: Lore/Fellowships/Burning_Sons
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Pyrius
+Planes:
+  - Elemental
+  - Fire
+Pantheon: Elemental_Deities
+Associated_Fellowships:
+  - Cinderscribes
+  - The Ashen Conclave
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - fire
+  - pyrius
 ---
 
 # Burning Sons

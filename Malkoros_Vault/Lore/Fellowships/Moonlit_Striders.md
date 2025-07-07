@@ -1,5 +1,26 @@
 ---
+Title: Moonlit_Striders
+Type: Fellowship
+Directory: Lore/Fellowships/Moonlit_Striders
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Lunessa
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Associated_Fellowships:
+  - Echoes of Lunessa
+  - Veilbound
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - lunessa
 ---
 
 # Moonlit Striders

@@ -1,5 +1,26 @@
 ---
+Title: Order_of_the_Crimson_Veil
+Type: Fellowship
+Directory: Lore/Fellowships/Order_of_the_Crimson_Veil
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Seramara
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Associated_Fellowships:
+  - Seramara’s Thorn
+  - The Unforgotten
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - seramara
 ---
 
 # Order of the Crimson Veil

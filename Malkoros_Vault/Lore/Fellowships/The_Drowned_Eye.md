@@ -1,5 +1,26 @@
 ---
+Title: The_Drowned_Eye
+Type: Fellowship
+Directory: Lore/Fellowships/The_Drowned_Eye
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Tahrun
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Associated_Fellowships:
+  - Circle of the Folded Veil
+  - The Whispering Quill
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - tahrun
 ---
 
 # The Drowned Eye

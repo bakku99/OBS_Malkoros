@@ -1,5 +1,26 @@
 ---
+Title: Oracles_of_Oblivion
+Type: Fellowship
+Directory: Lore/Fellowships/Oracles_of_Oblivion
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Uztix
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Riders of the Dark Tide
+  - Walkers of the Serpentine Labyrinth
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - uztix
 ---
 
 # Oracles of Oblivion

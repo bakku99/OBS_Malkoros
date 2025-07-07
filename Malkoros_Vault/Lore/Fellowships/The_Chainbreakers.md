@@ -1,5 +1,26 @@
 ---
+Title: The_Chainbreakers
+Type: Fellowship
+Directory: Lore/Fellowships/The_Chainbreakers
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Kaelis
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Associated_Fellowships:
+  - Emberwilds
+  - Stagblood Pact
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - kaelis
 ---
 
 # The Chainbreakers

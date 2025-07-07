@@ -1,5 +1,26 @@
 ---
+Title: Merciful_Hands
+Type: Fellowship
+Directory: Lore/Fellowships/Merciful_Hands
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Vandryl
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Associated_Fellowships:
+  - Duskborn Choir
+  - Order of the Pale Gift
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - vandryl
 ---
 
 # Merciful Hands

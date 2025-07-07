@@ -1,5 +1,26 @@
 ---
+Title: Veilbound
+Type: Fellowship
+Directory: Lore/Fellowships/Veilbound
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Lunessa
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Associated_Fellowships:
+  - Echoes of Lunessa
+  - Moonlit Striders
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - lunessa
 ---
 
 # Veilbound

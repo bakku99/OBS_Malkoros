@@ -1,5 +1,29 @@
 ---
+Title: Attendants_of_the_Rapture
+Type: Fellowship
+Directory: Lore/Fellowships/Attendants_of_the_Rapture
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Othys
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Dark Hand
+  - Dragons of Smoke
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - mourners
+  - guides
+  - shepherds
+  - othys
 ---
 
 # Attendants of the Rapture  

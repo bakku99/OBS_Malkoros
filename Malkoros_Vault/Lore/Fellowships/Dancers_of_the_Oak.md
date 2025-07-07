@@ -1,5 +1,26 @@
 ---
+Title: Dancers_of_the_Oak
+Type: Fellowship
+Directory: Lore/Fellowships/Dancers_of_the_Oak
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Hostus
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Eyes of Creation
+  - Witchlings of the Night
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - hostus
 ---
 
 # Dancers of the Oak

@@ -1,5 +1,26 @@
 ---
+Title: Eyes_of_Creation
+Type: Fellowship
+Directory: Lore/Fellowships/Eyes_of_Creation
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Hostus
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Dancers of the Oak
+  - Witchlings of the Night
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - hostus
 ---
 
 # Eyes of Creation

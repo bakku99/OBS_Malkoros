@@ -1,5 +1,24 @@
 ---
+Title: The_Ashen_Conclave
+Type: Fellowship
+Directory: Lore/Fellowships/The_Ashen_Conclave
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Pyrius
+Planes:
+  - Elemental
+  - Fire
+Pantheon: Elemental_Deities
+Associated_Fellowships:
+  - Burning Sons
+  - Cinderscribes
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - pyrius
 ---
 
 # The Ashen Conclave

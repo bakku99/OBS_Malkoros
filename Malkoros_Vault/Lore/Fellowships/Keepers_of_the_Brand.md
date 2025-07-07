@@ -1,5 +1,26 @@
 ---
+Title: Keepers_of_the_Brand
+Type: Fellowship
+Directory: Lore/Fellowships/Keepers_of_the_Brand
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Vaelreth
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Associated_Fellowships:
+  - Ashen Circle
+  - Scorchbearers
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - vaelreth
 ---
 
 # Keepers of the Brand

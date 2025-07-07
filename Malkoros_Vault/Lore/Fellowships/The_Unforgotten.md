@@ -1,5 +1,26 @@
 ---
+Title: The_Unforgotten
+Type: Fellowship
+Directory: Lore/Fellowships/The_Unforgotten
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Seramara
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Elemental_Deities
+Associated_Fellowships:
+  - Order of the Crimson Veil
+  - Seramara’s Thorn
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - seramara
 ---
 
 # The Unforgotten

@@ -1,5 +1,24 @@
 ---
+Title: Echobinders
+Type: Fellowship
+Directory: Lore/Fellowships/Echobinders
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Nysthariel
+Planes:
+  - Elemental
+  - Shadow
+Pantheon: Elemental_Deities
+Associated_Fellowships:
+  - Maskbearers
+  - The Hollow Remain
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - nysthariel
 ---
 
 # Echobinders

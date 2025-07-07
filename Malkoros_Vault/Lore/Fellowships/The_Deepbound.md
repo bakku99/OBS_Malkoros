@@ -1,5 +1,24 @@
 ---
+Title: The_Deepbound
+Type: Fellowship
+Directory: Lore/Fellowships/The_Deepbound
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Thavax
+Planes:
+  - Elemental
+  - Earth
+Pantheon: Elemental_Deities
+Associated_Fellowships:
+  - Stonewatchers
+  - Verdant Core
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - thavax
 ---
 
 # The Deepbound

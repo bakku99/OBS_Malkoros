@@ -1,5 +1,27 @@
 ---
+Title: Society_of_Luminaries
+Type: Fellowship
+Directory: Lore/Fellowships/Society_of_Luminaries
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Solanis
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Eyes of the Blazing Sun
+  - Dawnbringers
+  - Knights of Aina'rutha
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - solanis
 ---
 
 # Society of Luminaries

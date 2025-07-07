@@ -1,5 +1,26 @@
 ---
+Title: Lovers_of_Fortune
+Type: Fellowship
+Directory: Lore/Fellowships/Lovers_of_Fortune
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Atotz
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Laughing Maidens
+  - Spinning Stars
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - atotz
 ---
 
 # Lovers of Fortune

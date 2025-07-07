@@ -1,5 +1,27 @@
 ---
+Title: Knights_of_Ainarutha
+Type: Fellowship
+Directory: Lore/Fellowships/Knights_of_Ainarutha
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Solanis
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Dawnbringers
+  - Eyes of the Blazing Sun
+  - Society of Luminaries
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - solanis
 ---
 
 # Knights of Ainarutha

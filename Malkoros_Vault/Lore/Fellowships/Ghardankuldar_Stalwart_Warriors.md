@@ -1,5 +1,26 @@
 ---
+Title: Ghardankuldar_Stalwart_Warriors
+Type: Fellowship
+Directory: Lore/Fellowships/Ghardankuldar_Stalwart_Warriors
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Therassor
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Governors of Battle
+  - Warders of the Gate
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - therassor
 ---
 
 # Ghardankuldar Stalwart Warriors

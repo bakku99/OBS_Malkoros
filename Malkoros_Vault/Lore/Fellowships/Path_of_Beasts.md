@@ -1,5 +1,27 @@
 ---
+Title: Path_of_Beasts
+Type: Fellowship
+Directory: Lore/Fellowships/Path_of_Beasts
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Ineas
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Path of Adepts
+  - Path of Ash
+  - Path of Dynasty
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - ineas
 ---
 
 # Path of Beasts

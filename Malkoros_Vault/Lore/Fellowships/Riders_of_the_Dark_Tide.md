@@ -1,5 +1,26 @@
 ---
+Title: Riders_of_the_Dark_Tide
+Type: Fellowship
+Directory: Lore/Fellowships/Riders_of_the_Dark_Tide
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Uztix
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Oracles of Oblivion
+  - Walkers of the Serpentine Labyrinth
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - uztix
 ---
 
 # Riders of the Dark Tide

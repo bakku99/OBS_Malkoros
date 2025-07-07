@@ -1,5 +1,26 @@
 ---
+Title: Emberwilds
+Type: Fellowship
+Directory: Lore/Fellowships/Emberwilds
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Kaelis
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Associated_Fellowships:
+  - Stagblood Pact
+  - The Chainbreakers
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - kaelis
 ---
 
 # Emberwilds

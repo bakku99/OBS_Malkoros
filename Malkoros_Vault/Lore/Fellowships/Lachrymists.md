@@ -1,5 +1,26 @@
 ---
+Title: Lachrymists
+Type: Fellowship
+Directory: Lore/Fellowships/Lachrymists
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Xexas
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Associated_Fellowships:
+  - Bladed Veil
+  - Children of the Second Tongue
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - xexas
 ---
 
 # Lachrymists

@@ -1,5 +1,26 @@
 ---
+Title: Governors_of_Battle
+Type: Fellowship
+Directory: Lore/Fellowships/Governors_of_Battle
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Therassor
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Ghardankuldar (Stalwart Warriors)
+  - Warders of the Gate
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - therassor
 ---
 
 # Governors of Battle

@@ -1,5 +1,27 @@
 ---
+Title: Dawnbringers
+Type: Fellowship
+Directory: Lore/Fellowships/Dawnbringers
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Solanis
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Eyes of the Blazing Sun
+  - Society of Luminaries
+  - Knights of Aina'rutha
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - solanis
 ---
 
 # Dawnbringer

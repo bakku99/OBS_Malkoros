@@ -1,5 +1,26 @@
 ---
+Title: Dark_Hand
+Type: Fellowship
+Directory: Lore/Fellowships/Dark_Hand
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Othys
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Attendants of the Rapture
+  - Dragons of Smoke
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - othys
 ---
 
 # Dark Hand

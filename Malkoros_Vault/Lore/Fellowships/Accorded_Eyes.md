@@ -1,5 +1,29 @@
 ---
+Title: Accorded_Eyes
+Type: Fellowship
+Directory: Lore/Fellowships/Accorded_Eyes
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Azhadûn
+Planes:
+  - Lower
+  - Nine Hells
+Pantheon: Lower_Planes_Deities
+Associated_Fellowships:
+  - The Chainforged
+  - The Order of the Final Clause
+tags:
+  - fellowships
+  - fellowship
+  - organizations
+  - organization
+  - contracts
+  - lawful
+  - hells
+  - evil
+  - damnation
+  - Azhadûn
 ---
 
 # Accorded Eyes

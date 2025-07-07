@@ -1,5 +1,26 @@
 ---
+Title: Warders_of_the_Gate
+Type: Fellowship
+Directory: Lore/Fellowships/Warders_of_the_Gate
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Therassor
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Associated_Fellowships:
+  - Governors of Battle
+  - Ghardankuldar (Stalwart Warriors)
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - therassor
 ---
 
 # Warders of the Gate

@@ -1,5 +1,24 @@
 ---
+Title: Verdant_Core
+Type: Fellowship
+Directory: Lore/Fellowships/Verdant_Core
+Category:
+  - Fellowship
+  - Organizations
 Patron Deity: Thavax
+Planes:
+  - Elemental
+  - Earth
+Pantheon: Elemental_Deities
+Associated_Fellowships:
+  - Stonewatchers
+  - The Deepbound
+tags:
+  - fellowship
+  - fellowships
+  - organization
+  - organizations
+  - thavax
 ---
 
 # Verdant Core
