@@ -1,3 +1,7 @@
+---
+Patron Deity: Vandryl
+---
+
 # Duskborn Choir
 
 

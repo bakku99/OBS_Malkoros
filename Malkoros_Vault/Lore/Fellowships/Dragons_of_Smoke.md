@@ -1,3 +1,7 @@
+---
+Patron Deity: Othys
+---
+
 # Dragons of Smoke
 
 

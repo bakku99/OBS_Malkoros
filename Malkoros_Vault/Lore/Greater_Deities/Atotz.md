@@ -1,11 +1,33 @@
 ---
+Title: Atotz
+Type: Deity
+Directory: Lore/Greater_Deities/Atotz
+Category: Greater Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Domains: Luck
+Epithets: Lady Luck
 Symbol: A ring of small silver stars
-Granted Powers: Cast bless 1/long rest. Gain +1 to all saving throws.
-Allowed Alignments: Any chaotic
+Granted_Powers: Cast bless 1/long rest. Gain +1 to all saving throws.
+Allowed_Alignments: Any chaotic
 Fellowships:
-  - Spinning Stars
-  - Laughing Maidens
-  - Lovers of Fortune
+  - Spinning_Stars
+  - Laughing_Maidens
+  - Lovers_of_Fortune
+tags:
+  - deity
+  - luck
+  - dogma
+  - avatar
+  - zimbus
+  - ring_of_zimbus
+  - celestial
+  - greater_deity
+  - malkoros
 ---
 
 # Atotz

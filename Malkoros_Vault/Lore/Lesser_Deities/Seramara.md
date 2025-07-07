@@ -1,4 +1,20 @@
 ---
+Title: Seramara
+Type: Deity
+Directory: Lore/Lesser_Deities/Seramara
+Category: Lesser Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Domains:
+  - Love
+  - Grief
+  - Memory
+Epithets:
+  - The Heartpierced
 Symbol: A silver arrow piercing a red rose in bloom
 Granted Powers: Cast Calm Emotions once per long rest. Gain +2 to saving throws against charm and fear.
 Allowed Alignments: Any
@@ -6,6 +22,23 @@ Fellowships:
   - Order of the Crimson Veil
   - The Unforgotten
   - Seramara’s Thorn
+tags:
+  - deity
+  - memory
+  - love
+  - grief
+  - serathan_court
+  - solanis
+  - elendir_virelorn
+  - cinderglen
+  - withering_wastes
+  - elaruin
+  - spire
+  - celestial
+  - avatar
+  - dogma
+  - lesser_deity
+  - malkoros
 ---
 
 # Seramara

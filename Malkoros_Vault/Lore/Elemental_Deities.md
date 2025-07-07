@@ -1,3 +1,51 @@
+---
+Title: Elemental_Deities
+Type: Pantheon
+Directory: Lore/Elemental_Deities
+Planes:
+  - Elemental
+  - Air
+  - Arcane
+  - Earth
+  - Fire
+  - Shadow
+  - Water
+Pantheon: Elemental_Deities
+Pantheon_Name: Elemental
+Deities:
+  - Eirsyr
+  - Myrradyn
+  - Nysthariel
+  - Pyrius
+  - Thavax
+  - Zephrayl
+Associated_Fellowships:
+  - Glacient Wardens
+  - Tidecallers
+  - Sisters of Stillwater
+  - Inkborn Choir
+  - The Loomwalkers
+  - Fractaline Circle
+  - Echobinders
+  - Maskbearers
+  - The Hollow Remain
+  - Burning Sons
+  - Cinderscribes
+  - The Ashen Conclave
+  - The Deepbound
+  - Stonewatchers
+  - Verdant Core
+  - Cloudchasers
+  - Storm Heralds
+  - The Whisperwing
+tags:
+  - pantheon
+  - elemental
+  - deity
+  - index
+  - fellowships
+---
+
 # Elemental Deities
 
 Primordial powers over fire, water, air, earth, arcane, and shadow. Internal links are provided to the respective Deity files.

@@ -1,3 +1,7 @@
+---
+Patron Deity: Xexas
+---
+
 # Children of the Second Tongue
 
 

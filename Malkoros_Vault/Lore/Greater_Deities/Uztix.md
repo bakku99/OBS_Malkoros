@@ -1,4 +1,19 @@
 ---
+Title: Uztix
+Type: Deity
+Directory: Lore/Greater_Deities/Uztix
+Category: Greater Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Domains:
+  - Murder
+  - Evil
+Epithets:
+  - The Serpentine Temptress
 Symbol: A coiled serpent around a skull.
 Granted Powers: Protection from goodevil 1long rest. Upon reaching appropriate level, confusion 1day.
 Allowed Alignments: Any evil
@@ -6,6 +21,15 @@ Fellowships:
   - Riders of the Dark Tide
   - Oracles of Oblivion
   - Walkers of the Serpentine Labyrinth
+tags:
+  - deity
+  - murder
+  - evil
+  - dogma
+  - avatar
+  - celestial
+  - greater_deity
+  - malkoros
 ---
 
 # Uztix

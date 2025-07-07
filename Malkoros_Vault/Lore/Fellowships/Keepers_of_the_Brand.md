@@ -1,3 +1,7 @@
+---
+Patron Deity: Vaelreth
+---
+
 # Keepers of the Brand
 
 

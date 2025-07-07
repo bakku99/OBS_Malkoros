@@ -1,4 +1,19 @@
 ---
+Title: Vaelreth
+Type: Deity
+Directory: Lore/Lesser_Deities/Vaelreth
+Category: Lesser Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Domains:
+  - Justice
+  - Vengeance
+Epithets:
+  - The Burning Oath
 Symbol: A broken manacle with a burning sword in its center
 Granted Powers: Cast Wrathful Smite once per long rest. When below half HP, gain +1 AC and +1 to all damage rolls.
 Allowed Alignments: Any lawful
@@ -6,13 +21,28 @@ Fellowships:
   - Scorchbearers
   - Keepers of the Brand
   - Ashen Circle
+tags:
+  - deity
+  - justice
+  - vengeance
+  - obrenic_dominion
+  - caltorra
+  - freyar
+  - molzareth
+  - chainfather
+  - obrenic
+  - celestial
+  - lesser_deity
+  - malkoros
+  - avatar
+  - dogma
 ---
 
 # Vaelreth
 
 Vaelreth, the Burning Oath – God of Vengeance and Justice
 
-In the final centuries of the Obrenic Dominion — a cruel empire that stretched across the central plains of what is now Caltorra and Freya — a nameless slave rose to lead the Ashen Rebellion. This man, branded and beaten from birth, became known as Vaelreth after he took up the sword Judicar, said to be gifted by Therassor himself, or perhaps born of Vaelreth’s own fury. With it, he led a brutal uprising against the Obrenic tyrants, culminating in the execution of High King Molzareth the Chainfather in the city of Myr'Toruun around 8700 BAR. The flames that consumed the Obrenic palaces never died in memory. When Vaelreth stood upon the ashes of that golden throne and swore his final oath — that no tyrant would rise again unchallenged — he was struck by divine lightning and ascended before the eyes of thousands.
+In the final centuries of the Obrenic Dominion — a cruel empire that stretched across the central plains of what is now Caltorra and Freyar — a nameless slave rose to lead the Ashen Rebellion. This man, branded and beaten from birth, became known as Vaelreth after he took up the sword Judicar, said to be gifted by Therassor himself, or perhaps born of Vaelreth’s own fury. With it, he led a brutal uprising against the Obrenic tyrants, culminating in the execution of High King Molzareth the Chainfather in the city of Myr'Toruun around 8700 BAR. The flames that consumed the Obrenic palaces never died in memory. When Vaelreth stood upon the ashes of that golden throne and swore his final oath — that no tyrant would rise again unchallenged — he was struck by divine lightning and ascended before the eyes of thousands.
 
 ## Dogma
 Let no injustice stand unchallenged. When the law fails the people, become the flame that tempers it. Oaths are sacred — break them, and you invite ruin. If you seek vengeance, do so with purpose, not hatred. Punish the wicked, protect the innocent, and never let fear silence your fire.

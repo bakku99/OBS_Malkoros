@@ -1,3 +1,7 @@
+---
+Patron Deity: Ineas
+---
+
 # Path of Ash
 
 

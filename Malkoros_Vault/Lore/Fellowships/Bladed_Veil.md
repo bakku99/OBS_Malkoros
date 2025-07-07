@@ -1,40 +1,41 @@
-# Bladed Veil
+---
+Patron Deity: Xexas
+---
+
+# **Bladed Veil**
 
 *The mask is never removed; the dagger is never seen. Every stage is a battlefield, every whisper a weapon.*
 
-The Bladed Veil are the most notorious of Xexas’s fellowships: a secretive order of assassins who hide in plain sight as performers, courtesans, and artists. To the unknowing, they are the heart of any royal celebration — dazzling dancers, captivating actors, intimate confidantes. But behind their painted faces and practiced smiles lies the deadliest steel.
+The Bladed Veil are Xexas’s most glamorous and feared followers: assassins who move unseen through the courts of Malkoros by dazzling their victims with art, wit, and beauty. Their performances are legendary — but so are the whispered rumors of rulers who did not live to see the curtain fall.
 
-## Origins & Structure
+### **Initiation & Rites**
+Before joining the Veil, initiates must stage a public performance so captivating that it draws tears from at least one noble. Unbeknownst to all present, during this same night they must also deliver a killing blow — often with nothing more than a poisoned kiss or slip of silk garrote. Only when both acts are complete do they receive their mask: porcelain on one side (for beauty), iron on the other (for death).
 
-Founded in the aftermath of Sangelline’s fall, when trust was slaughtered and beauty became a weapon, the Bladed Veil perfected their art among ruined courts. Their hierarchy is fluid; all members wear masks (literal or figurative), known to each other only by code-names drawn from flowers or tragic lovers. The highest echelons are called **The Petals**, directing contracts and keeping secrets within secrets.
+**Notable Rite:**  
+*The Crimson Waltz* — A ceremonial dance performed at dawn after an assassination. The killer dances alone in blood-spattered silks beneath moonlight, reciting verses about beauty and death. The corpse remains their silent partner until sunrise.
 
-## Beliefs & Rituals
+### **Hierarchy**
+- **The Masque** – The enigmatic leader; identity ever-changing.
+- **Lead Players** – Masters of particular arts (song, dance, knifeplay).
+- **Chorus** – Journeyman assassins.
+- **Petals** – New initiates.
 
-To be beautiful is to be dangerous.
-To love is to destroy.
-Every performance must draw blood — whether from heart or vein.
+### **Mottoes**
+- “All eyes on us; all knives in them.”
+- “A blade needs no sheath if it wears a smile.”
 
-Initiates undergo the "Sighing Rite": a masked ball where poison-laced wine flows freely; only those who resist temptation — or survive it — are welcomed into the fold.
+### **Adventure Hooks**
+1. **A Masked Invitation:**  
+  The PCs are invited to a royal gala starring famed performers rumored to be Bladed Veil. When nobles begin dying mysteriously mid-party (each death reflecting some element of that night’s play), can they unmask the killers before they themselves become part of the final act?
 
-**Sacred tools:** Silk scarves sewn with razors; perfume that kills with a breath; stage props that double as deadly weapons.
+2. **Betrayer’s Apprentice:**  
+  A young artist begs for protection from masked assassins after refusing initiation into the Veil — but soon it’s revealed she possesses secret knowledge about Nythara or Xexas himself.
 
-## Activities
+3. **Silken Shadows:**  
+  A rival guild seeks aid against encroaching Bladed Veil agents who have infiltrated every level of city society: courtesans in brothels, actors in street theaters… even children singing rhymes laced with coded messages.
 
-- **Assassination by Art:** Many victims die not realizing they were targeted until their final breath. A poisoned kiss during an opera curtain call; a dagger slipped between ribs during an embrace.
-- **Espionage:** Secrets gathered in pillow talk or backstage whispers are sold for fortunes — or delivered as leverage for Xexas’s schemes.
-- **Cultural Subversion:** The Veil manipulates public opinion through plays and scandals, using art as both smokescreen and scalpel.
-
-## Roleplaying Hooks
-
-- Are you there to entertain…or to kill?
-- What mask do you wear when no one watches?
-- Can you truly love someone you might be ordered to destroy?
-
-## Symbolism
-
-Members mark themselves discreetly: a single drop-shaped tattoo near their lips, signifying both poison and tears. Their signature flower arrangement at events always includes one bleeding rose.
-
----
-
+### **Relics & Treasures**
+- *Veiled Dagger*: Appears as an innocent hairpin or fan but springs forth as a poisoned blade when needed.
+- *Mask of Perfumed Lies*: Allows wearer to cast Disguise Self at will; advantage on Deception checks while worn.
+- *Crimson Requiem*: A sheet of music — when played and sung during an assassination attempt, confers magical silence around its performer.
 [[Xexas|Back to Xexas]]  
-Learn about other fellowships: [[Children_of_the_Second_Tongue]], [[Lachrymists]]

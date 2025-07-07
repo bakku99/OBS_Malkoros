@@ -1,3 +1,7 @@
+---
+Patron Deity: Uztix
+---
+
 # Walkers of the Serpentine Labyrinth
 
 

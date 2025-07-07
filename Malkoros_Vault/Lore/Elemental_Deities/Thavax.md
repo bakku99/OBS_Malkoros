@@ -1,4 +1,18 @@
 ---
+Title: Thavax
+Type: Deity
+Directory: Lore/Elemental_Deities/Thavax
+Category: Elemental Deity
+Planes:
+  - Elemental
+  - Earth
+Pantheon: Elemental_Deities
+Domains:
+  - Earth
+  - Endurance
+  - Secrets
+Epithets:
+  - The World-Root
 Symbol: A mountain pierced by a downward-pointing spiral
 Granted Powers: Immunity to petrification and earth-based effects. Cast Stone Shape once per long rest. Followers cannot be forcibly moved against their will and are resistant to forced transformation.
 Allowed Alignments: Any lawful
@@ -6,6 +20,21 @@ Fellowships:
   - The Deepbound
   - Stonewatchers
   - Verdant Core
+tags:
+  - deity
+  - earth
+  - endurance
+  - secrets
+  - elemental
+  - elemental_deity
+  - godstones
+  - dogma
+  - avatar
+  - malkoros
+  - stone_giants
+  - earth_elementals
+  - xorn
+  - galeb_duhr
 ---
 
 # Thavax

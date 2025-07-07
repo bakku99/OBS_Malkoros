@@ -1,11 +1,31 @@
 ---
+Title: Hostus
+Type: Deity
+Directory: Lore/Greater_Deities/Hostus
+Category: Greater Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Domains: Nature
+Epithets: The Eyes of Evergreen
 Symbol: Rigid stone disk portraying a large tree.
-Granted Powers: All beasts have no worse than a neutral reaction. Cast entangle 1long rest.
-Allowed Alignments: Any non-evil
+Granted_Powers: All beasts have no worse than a neutral reaction. Cast entangle 1long rest.
+Allowed_Alignments: Any non-evil
 Fellowships:
   - Eyes of Creation
   - Dancers of the Oak
   - Witchlings of the Night
+tags:
+  - deity
+  - avatar
+  - celestial
+  - dogma
+  - greater_deity
+  - caltorra
+  - malkoros
 ---
 
 # Hostus

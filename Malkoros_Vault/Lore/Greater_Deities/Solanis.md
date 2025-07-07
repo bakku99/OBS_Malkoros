@@ -1,4 +1,19 @@
 ---
+Title: Solanis
+Type: Deity
+Directory: Lore/Greater_Deities/Solanis
+Category: Greater Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Domains:
+  - Light
+  - Life
+Epithets:
+  - The Beacon of Life
 Symbol: Gold disk embossed with a blazing sun.
 Granted Powers: Cast light twice per day, turn undead as if one level higher
 Allowed Alignments: Any good
@@ -7,6 +22,15 @@ Fellowships:
   - Society of Luminaries
   - Dawnbringers
   - Knights of Aina'rutha
+tags:
+  - deity
+  - life
+  - light
+  - dogma
+  - avatar
+  - celestial
+  - greater_deity
+  - malkoros
 ---
 
 # Solanis

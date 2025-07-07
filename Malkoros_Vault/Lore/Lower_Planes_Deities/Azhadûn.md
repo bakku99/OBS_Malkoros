@@ -1,4 +1,18 @@
 ---
+Title: Azhadûn
+Type: Deity
+Directory: Lore/Lower_Planes_Deities/Azhadûn
+Category: Lower Planes Deity
+Planes:
+  - Lower
+  - Nine Hells
+Pantheon: Lower_Planes_Deities
+Domains:
+  - Tyranny
+  - Contracts
+  - Damnation
+Epithets:
+  - The Crimson Warden
 Symbol: A spired crown impaled through a scroll of binding chains
 Granted Powers: Devils gain immunity to fire and poison damage. They may invoke Hellish Rebuke once per long rest, and their contracts can bind souls with divine sanction across all planes unless explicitly warded.
 Allowed Alignments: Lawful Evil only
@@ -6,6 +20,17 @@ Fellowships:
   - The Chainforged
   - Accorded Eyes
   - The Order of the Final Clause
+tags:
+  - deity
+  - tyranny
+  - contracts
+  - damnation
+  - avatar
+  - dogma
+  - hells
+  - lower_planes_deity
+  - evil
+  - lawful
 ---
 
 # Azhadûn

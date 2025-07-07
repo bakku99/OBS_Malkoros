@@ -1,4 +1,16 @@
 ---
+Title: Ineas
+Type: Deity
+Directory: Lore/Greater_Deities/Ineas
+Category: Greater Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Domains: Knowledge
+Epithets: Madam Mindful
 Symbol: An open book with an eye.
 Granted Powers: Burning hands 1long rest. Augury 1day.
 Allowed Alignments: Any
@@ -7,6 +19,14 @@ Fellowships:
   - Path of Adepts
   - Path of Beasts
   - Path of Ash
+tags:
+  - deity
+  - knowledge
+  - dogma
+  - avatar
+  - celestial
+  - greater_deity
+  - malkoros
 ---
 
 # Ineas

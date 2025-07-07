@@ -1,4 +1,18 @@
 ---
+Title: Myrradyn
+Type: Deity
+Directory: Lore/Elemental_Deities/Myrradyn
+Category: Elemental Deity
+Planes:
+  - Elemental
+  - Arcane
+Pantheon: Elemental_Deities
+Domains:
+  - Arcane
+  - Knowledge
+  - Unraveling
+Epithets:
+  - The Shattered Loom
 Symbol: A spiraling weave torn at the center, glowing with seven shifting colors
 Granted Powers: Cast Teleport once per long rest. Immunity to wild magic surges and the effects of magical feedback. Followers cast spells as if they were one spell level higher when on arcane-aligned planes.
 Allowed Alignments: Any
@@ -6,6 +20,18 @@ Fellowships:
   - The Loomwalkers
   - Inkborn Choir
   - Fractaline Circle
+tags:
+  - deity
+  - knowledge
+  - arcane
+  - weave
+  - unraveling
+  - dogma
+  - avatar
+  - elemental
+  - elemental_deity
+  - malkoros
+  - magic
 ---
 
 # Myrradyn

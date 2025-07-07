@@ -1,3 +1,7 @@
+---
+Patron Deity: Kaelis
+---
+
 # Stagblood Pact
 
 

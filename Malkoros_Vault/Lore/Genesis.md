@@ -1,3 +1,33 @@
+---
+Title: Genesis
+Type: Lore
+Directory: Lore/Genesis
+Category:
+  - Lore
+  - Worldbuilding
+Planes:
+  - Abyss
+  - Air
+  - Arcane
+  - Astral
+  - Celestial
+  - Earth
+  - Elemental
+  - Ethereal
+  - Fire
+  - Lower
+  - Material
+  - Nine Hells
+  - Shadow
+  - Water
+tags:
+  - genesis
+  - creation
+  - lore
+  - deity
+  - worldbuilding
+---
+
 # Genesis
 
 In the vast tapestry of the multiverse, where myriad worlds and planes intersect through the ethereal weave of magic and cosmic force, the creation of Malkoros stands as a testament to the powers and mysteries of the Greater Deities. This world, nestled within the boundless realms of the Prime Material Plane, was sculpted from the raw essence of existence by the divine entities who govern from the highest echelons of spiritual and elemental power.

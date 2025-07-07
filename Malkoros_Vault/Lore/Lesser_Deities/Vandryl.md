@@ -1,4 +1,20 @@
 ---
+Title: Vandryl
+Type: Deity
+Directory: Lore/Lesser_Deities/Vandryl
+Category: Lesser Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Domains:
+  - Despair
+  - Undeath
+  - Forbidden Mercy
+Epithets:
+  - The Last Breath
 Symbol: A skeletal hand offering a black lily
 Granted Powers: Cast False Life once per long rest. Undead under your control regain 1 HP per round if they begin their turn at 0 HP.
 Allowed Alignments: Any non-good
@@ -6,6 +22,25 @@ Fellowships:
   - Order of the Pale Gift
   - Merciful Hands
   - Duskborn Choir
+tags:
+  - deity
+  - forbidden_mercy
+  - forbidden
+  - mercy
+  - undeath
+  - undead
+  - despair
+  - ygravan
+  - obrenic_dominion
+  - obrenic
+  - othys
+  - lich
+  - books_of_othys
+  - dogma
+  - avatar
+  - celestial
+  - lesser_deity
+  - malkoros
 ---
 
 # Vandryl

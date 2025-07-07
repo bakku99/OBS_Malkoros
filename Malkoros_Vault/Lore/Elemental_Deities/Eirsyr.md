@@ -1,4 +1,18 @@
 ---
+Title: Eirsyr
+Type: Deity
+Directory: Lore/Elemental_Deities/Eirsyr
+Category: Elemental Deity
+Planes:
+  - Elemental
+  - Water
+Pantheon: Elemental_Deities
+Domains:
+  - Justice
+  - Water
+  - Preservation
+Epithets:
+  - The Frozen Deep
 Symbol: A teardrop encased in a six-pointed snowflake
 Granted Powers: Immunity to cold damage. Cast Wall of Ice once per long rest. Followers may breathe and move normally in freezing environments and water regardless of form.
 Allowed Alignments: Any
@@ -6,6 +20,20 @@ Fellowships:
   - Glacient Wardens
   - Tidecallers
   - Sisters of Stillwater
+tags:
+  - deity
+  - ice
+  - water
+  - dogma
+  - avatar
+  - elemental
+  - elemental_deity
+  - preservation
+  - godstones
+  - memory
+  - stillness
+  - endurance
+  - malkoros
 ---
 
 # Eirsyr

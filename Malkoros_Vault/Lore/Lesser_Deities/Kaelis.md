@@ -1,4 +1,20 @@
 ---
+Title: Kaelis
+Type: Deity
+Directory: Lore/Lesser_Deities/Kaelis
+Category: Lesser Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Domains:
+  - Freedom
+  - Chaos
+  - Revelry
+Epithets:
+  - The Wildsong
 Symbol: A dancing flame crowned with antlers
 Granted Powers: Cast Heroism once per long rest. Gain advantage on saving throws against restraint or paralysis effects.
 Allowed Alignments: Any chaotic
@@ -6,6 +22,19 @@ Fellowships:
   - Emberwilds
   - The Chainbreakers
   - Stagblood Pact
+tags:
+  - deity
+  - revelry
+  - chaos
+  - chaotic
+  - freedom
+  - celestial
+  - lesser_deity
+  - malkoros
+  - age_of_iron_chains
+  - skaldorok
+  - nurakk
+  - vaerri
 ---
 
 # Kaelis

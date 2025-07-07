@@ -1,3 +1,7 @@
+---
+Patron Deity: Seramara
+---
+
 # Order of the Crimson Veil
 
 

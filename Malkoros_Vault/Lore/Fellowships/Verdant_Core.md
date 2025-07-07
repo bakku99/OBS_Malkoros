@@ -1,3 +1,7 @@
+---
+Patron Deity: Thavax
+---
+
 # Verdant Core
 
 

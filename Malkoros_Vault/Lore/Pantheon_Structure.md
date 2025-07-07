@@ -1,3 +1,21 @@
+---
+Title: Pantheon_Structure
+Type: Index
+Directory: Lore/Pantheon_Structure
+Category: Lore
+Scope: All Pantheons
+Related_Pantheons:
+  - Greater_Deities
+  - Lesser_Deities
+  - Elemental_Deities
+  - Lower_Planes_Deities
+tags:
+  - pantheon
+  - structure
+  - lore
+  - index
+---
+
 # Pantheon Structure
 
 The gods of Malkoros are organized into several tiers based on their origin and cosmic influence. Each tier links to the lists of deities within that group.

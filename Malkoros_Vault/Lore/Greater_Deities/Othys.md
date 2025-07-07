@@ -1,4 +1,18 @@
 ---
+Title: Othys
+Type: Deity
+Directory: Lore/Greater_Deities/Othys
+Category: Greater Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Domains: Death
+Epithets:
+  - The Devourer
+  - Walker of Shadows
 Symbol: A grinning skull.
 Granted Powers: All undead under PC control have +1 HP per die.
 Allowed Alignments: Any may follow the God of Death.
@@ -6,6 +20,14 @@ Fellowships:
   - Attendants of the Rapture
   - Dark Hand
   - Dragons of Smoke
+tags:
+  - deity
+  - death
+  - dogma
+  - avatar
+  - celestial
+  - greater_deity
+  - malkoros
 ---
 
 # Othys

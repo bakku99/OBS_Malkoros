@@ -1,3 +1,88 @@
+---
+Title: Fellowships
+Type: Index
+Directory: Lore/Fellowships
+Category:
+  - Organizations
+  - Lore
+Scope: Global
+Includes:
+  - Accorded Eyes
+  - Ashen Circle
+  - Attendants of the Rapture
+  - Bladed Veil
+  - Burning Sons
+  - Children of Shard-Flesh
+  - Children of the Second Tongue
+  - Cinderscribes
+  - Circle of the Folded Veil
+  - Cloudchasers
+  - Dancers of the Oak
+  - Dark Hand
+  - Dawnbringers
+  - Dragons of Smoke
+  - Duskborn Choir
+  - Echobinders
+  - Echoes of Lunessa
+  - Emberwilds
+  - Eyes of Creation
+  - Eyes of the Blazing Sun
+  - Fractaline Circle
+  - Ghardankuldar Stalwart Warriors
+  - Glacient Wardents
+  - Gorehowlers
+  - Governors of Battle
+  - Inkborn Choir
+  - Keepers of the Brand
+  - Knights of Ainarutha
+  - Lachrymists
+  - Laughing Maidens
+  - Lovers of Fortune
+  - Maskbearers
+  - Maws of the Thousand
+  - Merciful Hands
+  - Moonlit Striders
+  - Oracles of Oblivion
+  - Order of the Crimson Veil
+  - Order of the Pale Gift
+  - Path of Adepts
+  - Path of Ash
+  - Path of Beasts
+  - Path of Dynasty
+  - Riders of the Dark Tide
+  - Scorchbearers
+  - Seramaras Thorn
+  - Sisters of Stillwater
+  - Society of Luminaries
+  - Spinning Stars
+  - Stagblood Pact
+  - Stonewatchers
+  - Storm Heralds
+  - The Ashen Conclave
+  - The Chainbreakers
+  - The Chainforged
+  - The Deepbound
+  - The Drowned Eye
+  - The Hollow Remain
+  - The Loomwalkers
+  - The Order of the Final Clause
+  - The Unforgotten
+  - The Whispering Quill
+  - The Whisperwing
+  - Tidecallers
+  - Veilbound
+  - Verdant Core
+  - Walkers of the Serpentine Labyrinth
+  - Warders of the Gate
+  - Witchlings of the Night
+tags:
+  - fellowships
+  - organizations
+  - index
+  - deity
+  - alias
+---
+
 # Fellowships
 
 Each deity is served by dedicated fellowships. This page collects the fellowship names, along with an internal link to the respective fellowship file, for quick reference. Each fellowship is separated by a "–" and the internal link to their respective Deity's file.

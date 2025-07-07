@@ -1,3 +1,7 @@
+---
+Patron Deity: Solanis
+---
+
 # Eyes of the Blazing Sun
 
 

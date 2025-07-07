@@ -1,4 +1,20 @@
 ---
+Title: Xexas
+Type: Deity
+Directory: Lore/Lesser_Deities/Xexas
+Category: Lesser Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Domains:
+  - Treachery
+  - Poison
+  - Beautiful Lies
+Epithets:
+  - The Betrayer's Kiss
 Symbol: A bleeding rose with a snake’s fang for a stem
 Granted Powers: Cast Suggestion once per long rest. Your poisons and venoms cannot be detected by magical means.
 Allowed Alignments: Any evil
@@ -6,6 +22,23 @@ Fellowships:
   - Bladed Veil
   - Children of the Second Tongue
   - Lachrymists
+tags:
+  - deity
+  - betrayal
+  - poison
+  - treachery
+  - beautiful
+  - lies
+  - beautiful_lies
+  - sangelline
+  - empire
+  - sangelline_empire
+  - uztix
+  - dogma
+  - avatar
+  - celestial
+  - lesser_deity
+  - malkoros
 ---
 
 # Xexas

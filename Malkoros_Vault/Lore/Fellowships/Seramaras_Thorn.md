@@ -1,3 +1,7 @@
+---
+Patron Deity: Seramara
+---
+
 # Seramaras Thorn
 
 

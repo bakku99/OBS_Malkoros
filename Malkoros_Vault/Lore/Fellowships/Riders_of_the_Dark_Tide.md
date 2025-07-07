@@ -1,3 +1,7 @@
+---
+Patron Deity: Uztix
+---
+
 # Riders of the Dark Tide
 
 

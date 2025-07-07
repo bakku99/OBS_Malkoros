@@ -1,3 +1,7 @@
+---
+Patron Deity: Vandryl
+---
+
 # Order of the Pale Gift
 
 

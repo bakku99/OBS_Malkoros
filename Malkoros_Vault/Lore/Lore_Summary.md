@@ -1,3 +1,27 @@
+---
+Title: Lore_Summary
+Type: Index
+Directory: Lore/Lore_Summary
+Category:
+  - Lore
+  - World Overview
+Scope: Global
+Related_Entries:
+  - Fellowships
+  - Pantheon_Structure
+  - Timeline
+  - Genesis
+  - Malkoros_Calendar
+  - Gods
+  - Geography
+tags:
+  - summary
+  - lore
+  - worldbuilding
+  - index
+---
+
+
 # Lore Summary
 
 Malkoros is a custom campaign setting built for **Dungeons & Dragons 5th Edition**.

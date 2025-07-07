@@ -1,4 +1,18 @@
 ---
+Title: Pyrius
+Type: Deity
+Directory: Lore/Elemental_Deities/Pyrius
+Category: Elemental Deity
+Planes:
+  - Elemental
+  - Fire
+Pantheon: Elemental_Deities
+Domains:
+  - Fire
+  - Passion
+  - Destruction
+Epithets:
+  - The Eternal Flame
 Symbol: A flame spiraling around a burning crown
 Granted Powers: Immunity to fire damage. Cast Flame Strike once per long rest. Followers’ fire-based spells are always treated as if cast in optimal conditions (e.g. dry, flammable, high-oxygen).
 Allowed Alignments: Any
@@ -6,6 +20,27 @@ Fellowships:
   - Burning Sons
   - Cinderscribes
   - The Ashen Conclave
+tags:
+  - deity
+  - destruction
+  - fire
+  - passion
+  - elemental
+  - elemental_deity
+  - dogma
+  - avatar
+  - malkoros
+  - godstones
+  - inferno
+  - volcano
+  - magma
+  - wildfire
+  - fire_elementals
+  - salamanders
+  - azers
+  - efreeti
+  - mortal_flamebound_cults
+  - cults
 ---
 
 # Pyrius

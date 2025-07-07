@@ -6,11 +6,38 @@ Fellowships:
   - Maws of the Thousand
   - Gorehowlers
   - Children of Shard-Flesh
+Title: Ulvaarak
+Type: Deity
+Directory: Lore/Lower_Planes_Deities/Ulvaarak
+Category: Lower Planes Deity
+Planes:
+  - Lower
+  - Abyss
+Pantheon: Lower_Planes_Deities
+Domains:
+  - Madness
+  - Ruin
+  - Endless Hunger
+  - Chaos
+Epithets:
+  - The Howling Maw
+tags:
+  - deity
+  - madness
+  - ruin
+  - endless_hunger
+  - chaos
+  - avatar
+  - dogma
+  - evil
+  - chaotic
+  - lower_planes_deity
+  - malkoros
 ---
 
 # Ulvaarak
 
-Ulvaarak, the Howling Maw – Greater God of Madness, Ruin, and Endless Hunger
+Ulvaarak, the Howling Maw – Greater God of Madness, Ruin, Chaos and Endless Hunger
 
 Ulvaarak is chaos incarnate — the yawning madness at the core of the Abyssal Plane. He did not create the Abyss — he is the Abyss. Born of the screaming remnants of forgotten gods devoured in the first divine wars, Ulvaarak exists as an ever-shifting mass of insanity, hunger, and blasphemy. He is every scream never answered, every wound never healed, every madness never named.
 He does not rule the Abyss. He is its will — fractured, howling, and eternal. Each demon lord is merely a shard of his broken psyche, clawing for dominance in a place where meaning has no place. He is feared even by his own creations, and worshipped not with prayer, but with slaughter.

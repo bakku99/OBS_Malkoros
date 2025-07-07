@@ -1,3 +1,7 @@
+---
+Patron Deity: Azhadûn
+---
+
 # Accorded Eyes
 
 **Fellowship of Azhadûn:**  
@@ -9,37 +13,31 @@
 
 The Accorded Eyes are the bureaucrats of damnation. They believe that every soul’s fate is etched not in prophecy or violence, but in writing — carefully worded and eternally binding. Their duty is to ensure that no pact is ever broken, no clause overlooked, and that every promise made under Azhadûn’s watchful gaze is enforced across all planes.
 
-## Structure
+**Role:** Infernal Scribes, Contract-Masters, Bureaucrats of Damnation  
+**Symbol:** An inkpot of molten gold, with a quill shaped like a chain-link feather and a single unblinking eye.
 
-- **Grand Scriptor:** The supreme scribe who oversees the archives of Hell; always a powerful devil or ascended mortal whose memory is flawless.
-- **Archivists:** Senior members entrusted with drafting major infernal contracts (such as those binding nations or archfiends).
-- **Quillbearers:** Lesser devils or mortals who handle routine agreements — property swaps, indentures of service, wills securing souls for the afterlife.
-- **Inkseekers:** Apprentices tasked with gathering rare inks (often distilled from souls), parchment from demon-hide, and forbidden tomes.
+### Doctrine & Purpose
+The Accorded Eyes serve as the keepers and crafters of all infernal contracts under Azhadûn. They believe words — not swords — are the true instruments of power. Every oath, pact, soul-bargain, and infernal codex is drafted or reviewed by their careful hands. Their guiding creed: *“Every promise is a prison; every signature is a shackle.”*
 
-## Rites & Traditions
+- **Unbreakable Wording:** Their contracts are legendary for their airtight clauses and subtle traps. Even gods hesitate to challenge an Accorded contract.
+- **Soul-Ink:** They write with quills dipped in distilled spirit essence, ensuring their work binds on both mortal parchment and the fabric of souls.
+- **Eternal Archives:** In Hell’s deepest vaults lie endless stacks of contracts — some so old that even devils tremble to invoke them.
 
-- **Oathbinding Ceremony:** Every new member must inscribe their true name in a living ledger; erasure means oblivion.
-- **The Red Quill Vigil:** During infernal eclipses, Accorded Eyes fast and copy ancient contracts by candlelight to renew their power.
-- **Soul-Inking:** The process of sealing truly unbreakable pacts using ink made from condemned spirits — a closely guarded secret.
+### Ranks & Structure
+1. **Initiates of Ink** – Novices who transcribe minor pacts under supervision.
+2. **Redactors** – Scribes trusted with amending or interpreting ancient contracts.
+3. **Binders** – Senior members empowered to draft original soul-bargains or magical geasa.
+4. **Eyes Proper** – The innermost circle; only they may witness the signing of world-altering pacts.
 
-## Symbolism & Attire
+### Powers & Boons
+- **Read Contract (Su):** Once per day, an Accorded Eye can instantly understand any written agreement’s true meaning, including hidden clauses or magical bindings.
+- **Seal of Irrevocability (Sp):** At higher ranks, they can magically enforce any contract signed in their presence (as *geas/quest* or *binding*).
+- **Never Forget (Ex):** Members have perfect recall for any written word they have ever seen.
 
-Members wear crimson robes with chain motifs. Each carries an infernal quill: black for mortals in training; silver for full scribes; gold for archivists; and blood-red for the Grand Scriptor. All bear signet rings shaped like a crowned eye over a scroll.
-
-## Powers & Boons
-
-- Can cast *Comprehend Languages* at will while reading or drafting contracts.
-- Once per long rest: Invoke *Zone of Truth* (DC 16) when witnessing agreements.
-- Trained members may attempt to magically “seal” oaths: any creature willingly signing an Accorded Eyes pact suffers dire consequences (as per *Geas*, DM's discretion) if they break it.
-
-## Notable Members
-
-**Archivist Malceris the Unblurred**, fiendish contract-writer whose scrolls span centuries  
-**Scribe-Lord Vethra**, mortal lawyer turned devil after out-negotiating three archfiends  
-**Inkseeker Tali**, apprentice who uncovered the lost names of seven fallen angels  
+### Mortal Worshippers & Cults
+Ambitious lawyers, wizard-notaries, and corrupt judges may secretly venerate the Accorded Eyes — seeking boons for legal victories or unbreakable deals.
 
 ---
 
-*“In ink we trust; by clause we conquer.”*
-
+*To join the Accorded Eyes is to become part of Hell’s memory: never erring, never forgetting...never forgiving.*
 [[Azhadûn|Back to Azhadûn]]

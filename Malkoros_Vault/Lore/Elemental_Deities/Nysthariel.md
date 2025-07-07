@@ -1,4 +1,18 @@
 ---
+Title: Nysthariel
+Type: Deity
+Directory: Lore/Elemental_Deities/Nysthariel
+Category: Elemental Deity
+Planes:
+  - Elemental
+  - Shadow
+Pantheon: Elemental_Deities
+Domains:
+  - Shadow
+  - Loss
+  - Hidden Truths
+Epithets:
+  - The Veiled Wound
 Symbol: A black crescent slit through a silver mask
 Granted Powers: Immunity to necrotic damage and magical darkness. Cast Greater Invisibility once per long rest. Followers cannot be detected by divination unless they choose to be seen.
 Allowed Alignments: Any neutral
@@ -6,6 +20,25 @@ Fellowships:
   - Maskbearers
   - The Hollow Remain
   - Echobinders
+tags:
+  - deity
+  - shadow
+  - loss
+  - hidden_truths
+  - hidden
+  - truths
+  - lies
+  - elemental
+  - elemental_deity
+  - fracture
+  - void
+  - mystery
+  - regret
+  - revelation
+  - dogma
+  - avatar
+  - malkoros
+  - godstones
 ---
 
 # Nysthariel

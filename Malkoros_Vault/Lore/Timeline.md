@@ -1,3 +1,25 @@
+---
+Title: Timeline
+Type: Lore
+Directory: Lore/Timeline
+Category:
+  - Lore
+  - Timekeeping
+  - Historical Record
+Scope:
+  - Global
+tags:
+  - timeline
+  - history
+  - events
+  - ages
+  - epochs
+  - eras
+  - lore
+  - worldbuilding
+---
+
+
 # Timeline
 
 The world of Malkoros is hundreds of thousands if not millions of years old. While different species have continued to grow and develop through evolution there are some much older than other that have stood the test of time. The oldest beings that have been ;seen; or so claimed on Malkoros are the Celestials, Primordials, and Fiendsdemons. While there are written accounts and eyewitnesses that live to this day who claim they have seen these beings, none have been spotted for centuries and are thought to have returned to their own planes and worlds. The Elves and Dwarves are the oldest civilizations of Malkoros with Humans being somewhat new in relative terms. There is a key correlation between lifespan and time on Malkoros with elves and dwarves living the longest, their histories are the oldest. Aarakocrans have the lowest lifespan and the newest history.

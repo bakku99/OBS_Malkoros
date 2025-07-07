@@ -1,4 +1,18 @@
 ---
+Title: Therassor
+Type: Deity
+Directory: Lore/Greater_Deities/Therassor
+Category: Greater Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Greater_Deities
+Domains:
+  - Righteous Battle
+Epithets:
+  - Warden of Justice
 Symbol: A steel disk embossed with a shining sword.
 Granted Powers: cast flame blade once per day. +1 to hit.
 Allowed Alignments: Any good
@@ -6,6 +20,16 @@ Fellowships:
   - Warders of the Gate
   - Governors of Battle
   - Ghardankuldar (Stalwart Warriors)
+tags:
+  - deity
+  - righteous_battle
+  - righteous
+  - battle
+  - dogma
+  - avatar
+  - celestial
+  - greater_deity
+  - malkoros
 ---
 
 # Therassor

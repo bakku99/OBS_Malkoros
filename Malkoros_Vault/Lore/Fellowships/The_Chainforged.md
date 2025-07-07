@@ -1,3 +1,7 @@
+---
+Patron Deity: Azhadûn
+---
+
 # The Chainforged
 
 

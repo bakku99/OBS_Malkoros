@@ -1,3 +1,61 @@
+---
+Title: Gods
+Type: Index
+Directory: Lore/Gods
+Category:
+  - Lore
+  - Worldbuilding
+Planes:
+  - Abyss
+  - Air
+  - Arcane
+  - Astral
+  - Celestial
+  - Earth
+  - Elemental
+  - Ethereal
+  - Fire
+  - Lower
+  - Material
+  - Nine Hells
+  - Shadow
+  - Water
+Related_Pantheons:
+  - Elemental_Deities
+  - Greater_Deities
+  - Lesser_Deities
+  - Lower_Planes_Deities
+Deities:
+  - Atotz
+  - Azhadûn
+  - Eirsyr
+  - Hostus
+  - Ineas
+  - Kaelis
+  - Lunessa
+  - Myrradyn
+  - Nysthariel
+  - Othys
+  - Pyrius
+  - Seramara
+  - Solanis
+  - Tahrun
+  - Thavax
+  - Therassor
+  - Ulvaarak
+  - Uztix
+  - Vaelreth
+  - Vandryl
+  - Xexas
+  - Zephrayl
+tags:
+  - deity
+  - lore
+  - index
+  - worldbuilding
+  - pantheon
+---
+
 # Gods of Malkoros
 
 There are many gods worshipped across Malkoros, and they all appreciate worshippers; however, in order to gain the powers granted by these Gods, one must be of the desired alignment and of the Cleric, Warlock, or Paladin classes, as they all draw their magical power from a higher power.

@@ -1,4 +1,20 @@
 ---
+Title: Lunessa
+Type: Deity
+Directory: Lore/Lesser_Deities/Lunessa
+Category: Lesser Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Domains:
+  - Moonlight
+  - Secrets
+  - Cycles
+Epithets:
+  - The Pale Watcher
 Symbol: A half-moon over a still pool reflecting an eclipse
 Granted Powers: Cast Moonbeam once per long rest. +1 to Wisdom (Insight) and Stealth checks under moonlight.
 Allowed Alignments: Any neutral
@@ -6,6 +22,17 @@ Fellowships:
   - Veilbound
   - Moonlit Striders
   - Echoes of Lunessa
+tags:
+  - deity
+  - cycles
+  - moonlight
+  - secrets
+  - avatar
+  - dogma
+  - neutral
+  - celestial
+  - lesser_deity
+  - malkoros
 ---
 
 # Lunessa

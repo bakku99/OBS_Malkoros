@@ -1,4 +1,18 @@
 ---
+Title: Zephrayl
+Type: Deity
+Directory: Lore/Elemental_Deities/Zephrayl
+Category: Elemental Deity
+Planes:
+  - Elemental
+  - Air
+Pantheon: Elemental_Deities
+Domains:
+  - Wind
+  - Sky
+  - Freedom
+Epithets:
+  - The Roaring Gale
 Symbol: A spiraling gust encircling an open eye
 Granted Powers: Immunity to lightning and thunder damage. Cast Control Winds once per long rest. Followers gain perfect control while airborne and never suffer from falling damage.
 Allowed Alignments: Any chaotic
@@ -6,6 +20,20 @@ Fellowships:
   - Cloudchasers
   - Storm Heralds
   - The Whisperwing
+tags:
+  - deity
+  - freedom
+  - wind
+  - sky
+  - despair
+  - elemental
+  - elemental_deity
+  - godstones
+  - avatar
+  - dogma
+  - malkoros
+  - vortex
+  - cloud_citadel
 ---
 
 # Zephrayl

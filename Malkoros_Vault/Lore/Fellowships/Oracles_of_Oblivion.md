@@ -1,3 +1,7 @@
+---
+Patron Deity: Uztix
+---
+
 # Oracles of Oblivion
 
 

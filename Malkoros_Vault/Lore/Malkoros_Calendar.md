@@ -1,3 +1,58 @@
+---
+Title: Malkoros_Calendar
+Type: Lore
+Directory: Lore/Malkoros_Calendar
+Category:
+  - Lore
+  - Timekeeping
+Scope: Global
+Includes:
+  - Lyccara
+  - Nerunel
+  - Maw of Night
+  - B.A.R.
+  - A.R.
+  - Ascension Day
+  - Bleeding Moon Festival
+  - Verdance Eve
+  - Circle Reawakening
+  - Trial of Veils
+  - Emberfall
+  - Dawnmoot
+  - Ashwake
+  - The Wandering Moon
+tags:
+  - calendar
+  - lore
+  - time
+  - moons
+  - mechanics
+  - system
+  - lyccara
+  - nerunel
+  - maw_of_night
+  - before_anatharian_reckoning
+  - after_anatharian_reckoning
+  - ascension
+  - ascension_day
+  - bleeding_moon
+  - bleeding_moon_festival
+  - verdance
+  - verdance_eve
+  - circle
+  - circle_reawakening
+  - trial
+  - trial_of_veils
+  - emberfall
+  - dawnmoot
+  - ashwake
+  - the_wandering_moon
+  - holidays
+  - epochs
+  - eras
+---
+
+
 # Malkoros Calendar
 
 The calendar of Malkoros is an ancient and intricate reckoning of time, born from divine influence and cosmic balance. It is widely used across the mortal world and demarcates time using a 14-period lunar year, two orbiting moons, and an 8-day week. This calendar stretches from the year -3000 B.A.R. to 3000 A.R., centered around - Before Anatharian Reckoning (B.A.R.), the first recorded history of civilization with the establishment of the Anatharian Empire - and the Anatharian Reckoning (A.R.), a pivotal epoch of divine withdrawal, marking a shift from negative year integers to positive year integers with the fall of the Anatharian Empire causing a dark period and loss of information.

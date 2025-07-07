@@ -1,4 +1,20 @@
 ---
+Title: Tahrun
+Type: Deity
+Directory: Lore/Lesser_Deities/Tahrun
+Category: Lesser Deity
+Planes:
+  - Material
+  - Ethereal
+  - Astral
+  - Celestial
+Pantheon: Lesser_Deities
+Domains:
+  - Dreams
+  - Madness
+  - Prophecy
+Epithets:
+  - The Shattered Eye
 Symbol: A cracked mirror framed by a closed eye
 Granted Powers: Cast Detect Thoughts once per long rest. Immunity to magical sleep; dreams may be prophetic at DM's discretion.
 Allowed Alignments: Any
@@ -6,6 +22,19 @@ Fellowships:
   - The Whispering Quill
   - Circle of the Folded Veil
   - The Drowned Eye
+tags:
+  - deity
+  - madness
+  - dreams
+  - prophecy
+  - antharian
+  - kelanith_convergence
+  - mirrored_sea
+  - avatar
+  - dogma
+  - lesser_deity
+  - celestial
+  - malkoros
 ---
 
 # Tahrun
