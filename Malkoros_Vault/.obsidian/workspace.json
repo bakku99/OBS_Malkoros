@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Fellowships/Witchlings_of_the_Night.md",
+                "file": "Templates/Run Generate Lore Context.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Witchlings_of_the_Night"
+              "title": "Run Generate Lore Context"
             }
           }
         ]
@@ -194,6 +194,15 @@
   },
   "active": "e90a458e16ab4919",
   "lastOpenFiles": [
+    "Lore/Fellowships/Burning_Sons.md",
+    "Templates/Run Generate Lore Context.md",
+    "textgenerator/templates/FellowshipExpander.md",
+    "Lore/Greater_Deities.md",
+    "Lore/Fellowships/Children_of_the_Second_Tongue.md",
+    "Lore/Fellowships/Accorded_Eyes.md",
+    "Campaigns/Godstones_Master_Campaign/Player_Characters.md",
+    "Lore/Fellowships/Ashen_Circle.md",
+    "Lore/Fellowships/Witchlings_of_the_Night.md",
     "Lore/Fellowships/Warders_of_the_Gate.md",
     "Lore/Fellowships/Walkers_of_the_Serpentine_Labyrinth.md",
     "Lore/Fellowships/Verdant_Core.md",
@@ -211,15 +220,6 @@
     "Lore/Fellowships/The_Chainbreakers.md",
     "Lore/Fellowships/The_Ashen_Conclave.md",
     "Lore/Fellowships/Storm_Heralds.md",
-    "Lore/Fellowships/Stonewatchers.md",
-    "Lore/Fellowships/Stagblood_Pact.md",
-    "Lore/Fellowships/Spinning_Stars.md",
-    "Lore/Fellowships/Society_of_Luminaries.md",
-    "Lore/Fellowships/Sisters_of_Stillwater.md",
-    "Lore/Fellowships/Seramaras_Thorn.md",
-    "Lore/Fellowships/Scorchbearers.md",
-    "Lore/Fellowships/Riders_of_the_Dark_Tide.md",
-    "Lore/Fellowships/Path_of_Dynasty.md",
     "Templates/QuickAdd/New Text Document.txt",
     "Templates/QuickAdd",
     "Templates/New folder",

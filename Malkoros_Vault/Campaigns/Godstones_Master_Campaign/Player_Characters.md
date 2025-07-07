@@ -1,3 +1,24 @@
+---
+Title: Player_Characters
+Type: Index
+Directory: Campaigns/Godstones_Master_Campaign/Player_Characters
+Category:
+  - Campaign Index
+  - Player Characters
+Scope:
+  - Godstones Master Campaign
+tags:
+  - godstones
+  - campaign
+  - index
+  - campaign_index
+  - player_characters
+  - lillith_deeprot
+  - erci_tinkerton
+  - varis_galanodel
+  - sir_roland_ogletree
+---
+
 # Player Characters
 
 ## Lillith Deeprot
