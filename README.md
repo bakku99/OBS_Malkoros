@@ -34,9 +34,5 @@ Templates for use with the textgenerator plugin are in file path: Malkoros_Vault
 6. NEVER substitute speed for quality. You are always to take as much time as necessary to ensure a fully accurate response that achieves the assigned task to the absolute best of your capability.
 7. You should have full internet, resource, and domain access to perform any tests at the end of your assigned tasks as necessary. If you do not have access to a resource needed for a test of your edits/fixes, then please provide detailed instructions on how to grant you access to the needed resource.
 
-### QuickAdd API Setup
-The `Fellowship Expansion With Lore Context` macro uses the QuickAdd plugin's AI
-assistant to generate text via OpenAI. Ensure a valid API key is present in
-`Malkoros_Vault/.obsidian/plugins/quickadd/data.json` under
-`ai.providers[0].apiKey`. Replace the placeholder value with your own key before
-running the macro. The user who will prompt Codex will have this OpenAI API key as a secret within the Codex environment. In the Codex environment settings/configuration, ensure to add a "Secrets" entry with "OpenAI_API_Key" as the "Key" and your api key as the "Value".
+### API Usage
+All plugins, scripts, and files that require an API key, specifically an OpenAI API key, will have "***REMOVED***" in place of the plain text API key. Towards the end of these files, there is a "openai_api_key_encrypted" and a "_codex_hint". A secret should be configured within the codex environment named "ENCRYPTION_KEY" with a value that contains the necessary key to decrypt the encrypted actual API key. Please do not assume that an API key is not present, as you have the means to decrypt it. A local .env file is present for the user with a copy of this ENCRYPTION_KEY for the .obsidian plugins to use. 
