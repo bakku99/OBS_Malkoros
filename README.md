@@ -39,4 +39,4 @@ The `Fellowship Expansion With Lore Context` macro uses the QuickAdd plugin's AI
 assistant to generate text via OpenAI. Ensure a valid API key is present in
 `Malkoros_Vault/.obsidian/plugins/quickadd/data.json` under
 `ai.providers[0].apiKey`. Replace the placeholder value with your own key before
-running the macro. The user who will prompt Codex will have this OpenAI API key as a secret within the Codex environment. In the Codex environment settings/configuration, ensure to add a "Secrets" entry with "OpenAI API" as the "Key" and your api key as the "Value".
+running the macro. The user who will prompt Codex will have this OpenAI API key as a secret within the Codex environment. In the Codex environment settings/configuration, ensure to add a "Secrets" entry with "OpenAI_API_Key" as the "Key" and your api key as the "Value".
