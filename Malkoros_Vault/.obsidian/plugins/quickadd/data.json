@@ -190,7 +190,7 @@
       {
         "name": "OpenAI",
         "endpoint": "https://api.openai.com/v1",
-        "apiKey": "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",
+        "apiKey": "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",
         "models": [
           {
             "name": "text-davinci-003",
