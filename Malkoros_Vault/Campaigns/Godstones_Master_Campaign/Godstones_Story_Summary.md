@@ -1,4 +1,0 @@
-# Godstones Story Summary
-
-
-
