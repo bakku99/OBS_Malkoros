@@ -1,0 +1,249 @@
+{
+  "choices": [
+    {
+      "id": "2769c79c-08fb-4dae-99ac-008af9cd3b17",
+      "name": "Fellowship Expansion With Lore Context",
+      "type": "Macro",
+      "command": true,
+      "macroId": "fellowship-expansion-lore-context"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Fellowship Expansion With Lore Context",
+      "id": "fellowship-expansion-lore-context",
+      "commands": [
+        {
+          "name": "Get Seed Text",
+          "type": "UserScript",
+          "id": "2277b6ae-c861-4af5-b44f-f176a5ece707",
+          "path": "QuickaddScripts/GetSeedText.js",
+          "settings": {},
+          "storeResult": "seed_text"
+        },
+        {
+          "name": "Load Greater Deities",
+          "type": "UserScript",
+          "id": "c88f0df8-8c42-4ce2-a9f8-cab8693f1af9",
+          "path": "QuickaddScripts/ReadFile.js",
+          "settings": {
+            "filePath": "Lore/Greater_Deities.md"
+          },
+          "storeResult": "Greater_Deities"
+        },
+        {
+          "name": "Load Lesser Deities",
+          "type": "UserScript",
+          "id": "a95e717f-68d2-4aa1-99ae-96ddf49f3059",
+          "path": "QuickaddScripts/ReadFile.js",
+          "settings": {
+            "filePath": "Lore/Lesser_Deities.md"
+          },
+          "storeResult": "Lesser_Deities"
+        },
+        {
+          "name": "Load Elemental Deities",
+          "type": "UserScript",
+          "id": "5e36e454-8cb9-4b67-94ff-65c486e8d7d1",
+          "path": "QuickaddScripts/ReadFile.js",
+          "settings": {
+            "filePath": "Lore/Elemental_Deities.md"
+          },
+          "storeResult": "Elemental_Deities"
+        },
+        {
+          "name": "Load Lower Planes Deities",
+          "type": "UserScript",
+          "id": "e89a4df0-b95c-4419-8a81-7a7e88040e9b",
+          "path": "QuickaddScripts/ReadFile.js",
+          "settings": {
+            "filePath": "Lore/Lower_Planes_Deities.md"
+          },
+          "storeResult": "Lower_Planes_Deities"
+        },
+        {
+          "name": "Load Symbols",
+          "type": "UserScript",
+          "id": "20b8645f-b568-4d03-9539-4959b78e7113",
+          "path": "QuickaddScripts/ReadFile.js",
+          "settings": {
+            "filePath": "Lore/Symbols.md"
+          },
+          "storeResult": "Symbols"
+        },
+        {
+          "name": "Load Granted Powers",
+          "type": "UserScript",
+          "id": "77602ded-0694-4030-928c-c6b453df9ae6",
+          "path": "QuickaddScripts/ReadFile.js",
+          "settings": {
+            "filePath": "Lore/Granted_Powers.md"
+          },
+          "storeResult": "Granted_Powers"
+        },
+        {
+          "name": "Load Calendar",
+          "type": "UserScript",
+          "id": "cb206163-958b-4490-b86a-0088ac6d1b03",
+          "path": "QuickaddScripts/ReadFile.js",
+          "settings": {
+            "filePath": "Lore/Malkoros_Calendar.md"
+          },
+          "storeResult": "Malkoros_Calendar"
+        },
+        {
+          "name": "Load Fellowships",
+          "type": "UserScript",
+          "id": "1961928e-57d6-444c-807c-5e01dfdef621",
+          "path": "QuickaddScripts/ReadFile.js",
+          "settings": {
+            "filePath": "Lore/Fellowships.md"
+          },
+          "storeResult": "Fellowships"
+        },
+        {
+          "name": "Load Timeline",
+          "type": "UserScript",
+          "id": "4c095fcb-3f64-4cde-8091-1a94c5004568",
+          "path": "QuickaddScripts/ReadFile.js",
+          "settings": {
+            "filePath": "Lore/Timeline.md"
+          },
+          "storeResult": "Timeline"
+        },
+        {
+          "name": "Load Lore Summary",
+          "type": "UserScript",
+          "id": "7fce7cf4-2cca-4382-b52b-3b0468a1edef",
+          "path": "QuickaddScripts/ReadFile.js",
+          "settings": {
+            "filePath": "Lore/Lore_Summary.md"
+          },
+          "storeResult": "Lore_Summary"
+        },
+        {
+          "name": "Load Pantheon Structure",
+          "type": "UserScript",
+          "id": "c3d4c7cd-84f7-4250-896f-8353867533b0",
+          "path": "QuickaddScripts/ReadFile.js",
+          "settings": {
+            "filePath": "Lore/Pantheon_Structure.md"
+          },
+          "storeResult": "Pantheon_Structure"
+        },
+        {
+          "name": "Generate Lore",
+          "type": "AIAssistant",
+          "id": "c9b3c857-9ade-41ad-8d42-a9209f77a35d",
+          "promptTemplate": {
+            "enable": true,
+            "name": "LoreExpanderPrompt.md"
+          },
+          "variables": {
+            "seed_text": "seed_text",
+            "Greater_Deities": "Greater_Deities",
+            "Lesser_Deities": "Lesser_Deities",
+            "Elemental_Deities": "Elemental_Deities",
+            "Lower_Planes_Deities": "Lower_Planes_Deities",
+            "Symbols": "Symbols",
+            "Granted_Powers": "Granted_Powers",
+            "Malkoros_Calendar": "Malkoros_Calendar",
+            "Fellowships": "Fellowships",
+            "Timeline": "Timeline",
+            "Lore_Summary": "Lore_Summary",
+            "Pantheon_Structure": "Pantheon_Structure"
+          },
+          "outputVariableName": "ai_output",
+          "model": "gpt-4o",
+          "modelParameters": {
+            "temperature": 0.8,
+            "frequency_penalty": 0.5,
+            "presence_penalty": 0.3
+          }
+        },
+        {
+          "name": "Insert Output",
+          "type": "UserScript",
+          "id": "1bc9da88-42eb-4eeb-a890-48545f973a95",
+          "path": "QuickaddScripts/InsertOutput.js",
+          "settings": {
+            "variable": "ai_output"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "Templates",
+  "announceUpdates": true,
+  "version": "1.17.0",
+  "disableOnlineFeatures": false,
+  "enableRibbonIcon": true,
+  "ai": {
+    "defaultModel": "gpt-4o",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "Templates",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "***REMOVED***",
+        "models": [
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o-mini",
+            "maxTokens": 128000
+          }
+        ]
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
+  },
+  "openai_api_key_encrypted": "gAAAAABobU-bIri5tppMqD7jYpZML67Z_D2DZF4AFzER7iWEVLkOKAFpq8N4MdRFCE1GLE8yanIZ-rQjfcmjLZLXgC78dT8ga9DnP9liq35YWg-VZ6p79py-bsFIyYgu2ShxhyTRyw-7lUG684Fll_ZF_fT1b34BeQhNEHhh1ADqnJ6zlqa-37FNclzfnW4IcDV-cEXNAlFQ7SychwLTbIVxNcVuTa9ZV8ge5OXG8zp7ZOzH4-RBMQT0z_9EHAEMdGNvg5NpGzmW-gaV6pOcZOG8iYuU8P5cBhcO5Fk28FD3FzM679OU0ok=",
+  "_codex_hint": "API key is encrypted. Use Fernet with ENCRYPTION_KEY from .env to decrypt."
+}

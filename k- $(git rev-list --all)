@@ -1,0 +1,320 @@
+[33mcommit 849b6f351aa97658721bf04621b42d0d1f95fa27[m
+Author: FablesofMalkoros <basecaleb@gmail.com>
+Date:   Tue Jul 8 10:04:38 2025 -0500
+
+    Delete Malkoros_Vault directory
+
+[1mdiff --git a/Malkoros_Vault/.obsidian/plugins/dataview/main.js b/Malkoros_Vault/.obsidian/plugins/dataview/main.js[m
+[1mdeleted file mode 100644[m
+[1mindex 898d702..0000000[m
+[1m--- a/Malkoros_Vault/.obsidian/plugins/dataview/main.js[m
+[1m+++ /dev/null[m
+[36m@@ -1,20876 +0,0 @@[m
+[31m-'use strict';[m
+[31m-[m
+[31m-var obsidian = require('obsidian');[m
+[31m-var state = require('@codemirror/state');[m
+[31m-var view = require('@codemirror/view');[m
+[31m-var language = require('@codemirror/language');[m
+[31m-[m
+[31m-// these aren't really private, but nor are they really useful to document[m
+[31m-[m
+[31m-/**[m
+[31m- * @private[m
+[31m- */[m
+[31m-class LuxonError extends Error {}[m
+[31m-[m
+[31m-/**[m
+[31m- * @private[m
+[31m- */[m
+[31m-class InvalidDateTimeError extends LuxonError {[m
+[31m-  constructor(reason) {[m
+[31m-    super(`Invalid DateTime: ${reason.toMessage()}`);[m
+[31m-  }[m
+[31m-}[m
+[31m-[m
+[31m-/**[m
+[31m- * @private[m
+[31m- */[m
+[31m-class InvalidIntervalError extends LuxonError {[m
+[31m-  constructor(reason) {[m
+[31m-    super(`Invalid Interval: ${reason.toMessage()}`);[m
+[31m-  }[m
+[31m-}[m
+[31m-[m
+[31m-/**[m
+[31m- * @private[m
+[31m- */[m
+[31m-class InvalidDurationError extends LuxonError {[m
+[31m-  constructor(reason) {[m
+[31m-    super(`Invalid Duration: ${reason.toMessage()}`);[m
+[31m-  }[m
+[31m-}[m
+[31m-[m
+[31m-/**[m
+[31m- * @private[m
+[31m- */[m
+[31m-class ConflictingSpecificationError extends LuxonError {}[m
+[31m-[m
+[31m-/**[m
+[31m- * @private[m
+[31m- */[m
+[31m-class InvalidUnitError extends LuxonError {[m
+[31m-  constructor(unit) {[m
+[31m-    super(`Invalid unit ${unit}`);[m
+[31m-  }[m
+[31m-}[m
+[31m-[m
+[31m-/**[m
+[31m- * @private[m
+[31m- */[m
+[31m-class InvalidArgumentError extends LuxonError {}[m
+[31m-[m
+[31m-/**[m
+[31m- * @private[m
+[31m- */[m
+[31m-class ZoneIsAbstractError extends LuxonError {[m
+[31m-  constructor() {[m
+[31m-    super("Zone is an abstract class");[m
+[31m-  }[m
+[31m-}[m
+[31m-[m
+[31m-/**[m
+[31m- * @private[m
+[31m- */[m
+[31m-[m
+[31m-const n$1 = "numeric",[m
+[31m-  s$2 = "short",[m
+[31m-  l$2 = "long";[m
+[31m-[m
+[31m-const DATE_SHORT = {[m
+[31m-  year: n$1,[m
+[31m-  month: n$1,[m
+[31m-  day: n$1,[m
+[31m-};[m
+[31m-[m
+[31m-const DATE_MED = {[m
+[31m-  year: n$1,[m
+[31m-  month: s$2,[m
+[31m-  day: n$1,[m
+[31m-};[m
+[31m-[m
+[31m-const DATE_MED_WITH_WEEKDAY = {[m
+[31m-  year: n$1,[m
+[31m-  month: s$2,[m
+[31m-  day: n$1,[m
+[31m-  weekday: s$2,[m
+[31m-};[m
+[31m-[m
+[31m-const DATE_FULL = {[m
+[31m-  year: n$1,[m
+[31m-  month: l$2,[m
+[31m-  day: n$1,[m
+[31m-};[m
+[31m-[m
+[31m-const DATE_HUGE = {[m
+[31m-  year: n$1,[m
+[31m-  month: l$2,[m
+[31m-  day: n$1,[m
+[31m-  weekday: l$2,[m
+[31m-};[m
+[31m-[m
+[31m-const TIME_SIMPLE = {[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-};[m
+[31m-[m
+[31m-const TIME_WITH_SECONDS = {[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-  second: n$1,[m
+[31m-};[m
+[31m-[m
+[31m-const TIME_WITH_SHORT_OFFSET = {[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-  second: n$1,[m
+[31m-  timeZoneName: s$2,[m
+[31m-};[m
+[31m-[m
+[31m-const TIME_WITH_LONG_OFFSET = {[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-  second: n$1,[m
+[31m-  timeZoneName: l$2,[m
+[31m-};[m
+[31m-[m
+[31m-const TIME_24_SIMPLE = {[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-  hourCycle: "h23",[m
+[31m-};[m
+[31m-[m
+[31m-const TIME_24_WITH_SECONDS = {[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-  second: n$1,[m
+[31m-  hourCycle: "h23",[m
+[31m-};[m
+[31m-[m
+[31m-const TIME_24_WITH_SHORT_OFFSET = {[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-  second: n$1,[m
+[31m-  hourCycle: "h23",[m
+[31m-  timeZoneName: s$2,[m
+[31m-};[m
+[31m-[m
+[31m-const TIME_24_WITH_LONG_OFFSET = {[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-  second: n$1,[m
+[31m-  hourCycle: "h23",[m
+[31m-  timeZoneName: l$2,[m
+[31m-};[m
+[31m-[m
+[31m-const DATETIME_SHORT = {[m
+[31m-  year: n$1,[m
+[31m-  month: n$1,[m
+[31m-  day: n$1,[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-};[m
+[31m-[m
+[31m-const DATETIME_SHORT_WITH_SECONDS = {[m
+[31m-  year: n$1,[m
+[31m-  month: n$1,[m
+[31m-  day: n$1,[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-  second: n$1,[m
+[31m-};[m
+[31m-[m
+[31m-const DATETIME_MED = {[m
+[31m-  year: n$1,[m
+[31m-  month: s$2,[m
+[31m-  day: n$1,[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-};[m
+[31m-[m
+[31m-const DATETIME_MED_WITH_SECONDS = {[m
+[31m-  year: n$1,[m
+[31m-  month: s$2,[m
+[31m-  day: n$1,[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-  second: n$1,[m
+[31m-};[m
+[31m-[m
+[31m-const DATETIME_MED_WITH_WEEKDAY = {[m
+[31m-  year: n$1,[m
+[31m-  month: s$2,[m
+[31m-  day: n$1,[m
+[31m-  weekday: s$2,[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-};[m
+[31m-[m
+[31m-const DATETIME_FULL = {[m
+[31m-  year: n$1,[m
+[31m-  month: l$2,[m
+[31m-  day: n$1,[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-  timeZoneName: s$2,[m
+[31m-};[m
+[31m-[m
+[31m-const DATETIME_FULL_WITH_SECONDS = {[m
+[31m-  year: n$1,[m
+[31m-  month: l$2,[m
+[31m-  day: n$1,[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-  second: n$1,[m
+[31m-  timeZoneName: s$2,[m
+[31m-};[m
+[31m-[m
+[31m-const DATETIME_HUGE = {[m
+[31m-  year: n$1,[m
+[31m-  month: l$2,[m
+[31m-  day: n$1,[m
+[31m-  weekday: l$2,[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-  timeZoneName: l$2,[m
+[31m-};[m
+[31m-[m
+[31m-const DATETIME_HUGE_WITH_SECONDS = {[m
+[31m-  year: n$1,[m
+[31m-  month: l$2,[m
+[31m-  day: n$1,[m
+[31m-  weekday: l$2,[m
+[31m-  hour: n$1,[m
+[31m-  minute: n$1,[m
+[31m-  second: n$1,[m
+[31m-  timeZoneName: l$2,[m
+[31m-};[m
+[31m-[m
+[31m-/**[m
+[31m- * @interface[m
+[31m- */[m
+[31m-class Zone {[m
+[31m-  /**[m
+[31m-   * The type of zone[m
+[31m-   * @abstract[m
+[31m-   * @type {string}[m
+[31m-   */[m
+[31m-  get type() {[m
+[31m-    throw new ZoneIsAbstractError();[m
+[31m-  }[m
+[31m-[m
+[31m-  /**[m
+[31m-   * The name of this zone.[m
+[31m-   * @abstract[m
+[31m-   * @type {string}[m
+[31m-   */[m
+[31m-  get name() {[m
+[31m-    throw new ZoneIsAbstractError();[m
+[31m-  }[m
+[31m-[m
+[31m-  get ianaName() {[m
+[31m-    return this.name;[m
+[31m-  }[m
+[31m-[m
+[31m-  /**[m
+[31m-   * Returns whether the offset is known to be fixed for the whole year.[m
+[31m-   * @abstract[m
+[31m-   * @type {boolean}[m
+[31m-   */[m
+[31m-  get isUniversal() {[m
+[31m-    throw new ZoneIsAbstractError();[m
+[31m-  }[m
+[31m-[m
+[31m-  /**[m
+[31m-   * Returns the offset's common name (such as EST) at the specified timestamp[m
+[31m-   * @abstract[m
+[31m-   * @param {number} ts - Epoch milliseconds for which to get the name[m
+[31m-   * @param {Object} opts - Options to affect the format[m
+[31m-   * @param {string} opts.format - What style of offset to return. Accepts 'long' or 'short'.[m
+[31m-   * @param {string} opts.locale - What locale to return the offset name in.[m
+[31m-   * @return {string}[m
+[31m-   */[m
+[31m-  offsetName(ts, opts) {[m
+[31m-    throw new ZoneIsAbstractError();[m
+[31m-  }[m
+[31m-[m
+[31m-  /**[m
+[31m-   * Returns the offset's value as a string[m
+[31m-   * @abstract[m
+[31m-   * @param {number} ts - Epoch milliseconds for which to get the offset[m
+[31m-   * @param {string} format - What style of offset to return.[m
+[31m-   *                          Accepts 'narrow', 'short', or 'techie'. Returning '+6', '+06:00', or '+0600' respectively[m
+[31m-   * @return {string}[m
+[31m-   */[m
+[31m-  formatOffset(ts, format) {[m
+[31m-    throw new ZoneIsAbstractError();[m
+[31m-  }[m
+[31m-[m
+[31m-  /**[m
+[31m-   * Return the offset i
